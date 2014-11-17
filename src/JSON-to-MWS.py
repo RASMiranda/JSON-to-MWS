@@ -7,7 +7,7 @@ JSON-to-MWS.py
 Author: Rui Miranda
 
 Usage:
-    python JSON-to-MWS http://mtgjson/seturlexample [output]
+    python JSON-to-MWS.py http://mtgjson/seturlexample [output]
 """
 
 from __future__ import print_function
@@ -151,7 +151,7 @@ def main(url, out_folder=''):
     return output_mws_file(dict_json, out_folder)
     
 def _usage():
-    print("python JSON-to-MWS http://mtgjson/seturlexample [output]")
+    print("python JSON-to-MWS.py http://mtgjson/seturlexample [output]")
     
 if __name__ == "__main__":
     url = sys.argv[-1]
