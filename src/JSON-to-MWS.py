@@ -89,9 +89,9 @@ def get_manacost(manaCost, regex_curved_brackets):
     return cost
     #return regex_curved_brackets.sub('', self.manaCost)
 
-cost_splits = {'W/U': '%D','R/W': '%P','B/R': '%K','G/U': '%S','G/W': '%A','W/B': '%O','U/R': '%I','R/G': '%L','U/B': '%V','B/G': '%Q','2/W': '%E','2/U': '%F','2/B': '%H','2/R': '%J','2/G': '%M'}
+cost_splits = {'B/P': '%$','R/P': '%^','W/P': '%!','G/P': '%@','U/P': '%`','W/U': '%D','R/W': '%P','B/R': '%K','G/U': '%S','G/W': '%A','W/B': '%O','U/R': '%I','R/G': '%L','U/B': '%V','B/G': '%Q','2/W': '%E','2/U': '%F','2/B': '%H','2/R': '%J','2/G': '%M'}
 color_code = {'Black': 'B', 'White': 'W', 'Green': 'G', 'Red': 'R', 'Blue': 'U'}
-rarity_code = {'Mythic Rare': 'R','Rare': 'R', 'Uncommon': 'U', 'Common': 'C', 'Basic Land': 'C'}
+rarity_code = {'Special': 'R','Mythic Rare': 'R','Rare': 'R', 'Uncommon': 'U', 'Common': 'C', 'Basic Land': 'C'}
 class MTGJSONCARD2MWS(MTGJSONCARD):
     def __init__(self, card, regex_curved_brackets,cards_total):
         super().__init__(card)
