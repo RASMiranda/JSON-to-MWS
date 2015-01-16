@@ -24,7 +24,6 @@ class MTGJSONCARD:
         self.type = card['type']
         self.artist = card['artist']
         self.rarity = card['rarity']
-        self.number = card['number']
         self.types = card['types']
         self.colors = []
         self.manaCost = ''
@@ -32,6 +31,7 @@ class MTGJSONCARD:
         self.toughness = ''
         self.text = ''
         self.flavor = ''
+        self.number = ''
         if 'colors' in card:
             self.colors = card['colors']
         if 'manaCost' in card:
@@ -44,6 +44,8 @@ class MTGJSONCARD:
             self.text = card['text']
         if 'flavor' in card:
             self.flavor = card['flavor']
+        if 'number' in card:
+            self.flavor = card['number']
 
 
 #_______________________________________________________________________________
@@ -99,7 +101,6 @@ class MTGJSONCARD2MWS(MTGJSONCARD):
         self.type = _(self.type)
         self.artist = _(self.artist)
         self.rarity = rarity_code[_(self.rarity)]
-        self.number = _(self.number)+'/'+cards_total
         if self.manaCost:
             self.manaCost = get_manacost(self.manaCost, regex_curved_brackets)
         if self.power:
@@ -110,6 +111,8 @@ class MTGJSONCARD2MWS(MTGJSONCARD):
             self.text = _(self.text).replace('{T}','Tap')
         if self.flavor:
             self.flavor = _(self.flavor)
+        if self.number:
+            self.number = _(self.number)+'/'+cards_total
             
         self.color = get_color(self.colors, self.types)   
         self.pow_tou = get_create_pow_tou(self.types, self.power, self.toughness)
