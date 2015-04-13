@@ -1,0 +1,3542 @@
+Card Name:        Æther Spellbomb
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.
+{1}, Sacrifice Æther Spellbomb: Draw a card.
+Flavor Text:        141
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Alpha Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        2/1
+Card Text:        
+Flavor Text:        142
+Artist:                Dany Orizio
+Rarity:                C
+Card #:                
+
+Card Name:        Altar of Shadows
+Card Color:        Art
+Mana Cost:        7
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Altar of Shadows.
+{7}, Tap: Destroy target creature. Then put a charge counter on Altar of Shadows.
+Flavor Text:        143
+Artist:                Sam Wood
+Rarity:                R
+Card #:                
+
+Card Name:        Altar's Light
+Card Color:        W
+Mana Cost:        2WW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile target artifact or enchantment.
+Flavor Text:        1
+Artist:                Daren Bader
+Rarity:                U
+Card #:                
+
+Card Name:        Ancient Den
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Artifact Land
+Pow/Tou:        
+Card Text:        (Ancient Den isn't a spell.)
+Tap: Add {W} to your mana pool.
+Flavor Text:        278
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Annul
+Card Color:        U
+Mana Cost:        U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Counter target artifact or enchantment spell.
+Flavor Text:        29
+Artist:                Brian Snõddy
+Rarity:                C
+Card #:                
+
+Card Name:        ArcSlogger
+Card Color:        R
+Mana Cost:        3RR
+Type & Class:         Creature  Beast
+Pow/Tou:        4/5
+Card Text:        {R}, Exile the top ten cards of your library: ArcSlogger deals 2 damage to target creature or player.
+Flavor Text:        85
+Artist:                Jeff Easley
+Rarity:                R
+Card #:                
+
+Card Name:        Arrest
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+Flavor Text:        2
+Artist:                Tim Hildebrandt
+Rarity:                C
+Card #:                
+
+Card Name:        Assert Authority
+Card Color:        U
+Mana Cost:        5UU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Flavor Text:        30
+Artist:                Greg Hildebrandt
+Rarity:                U
+Card #:                
+
+Card Name:        Atog
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Creature  Atog
+Pow/Tou:        1/2
+Card Text:        Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+Flavor Text:        86
+Artist:                Puddnhead
+Rarity:                U
+Card #:                
+
+Card Name:        Auriok Bladewarden
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/1
+Card Text:        Tap: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.
+Flavor Text:        3
+Artist:                Dave Dorman
+Rarity:                U
+Card #:                
+
+Card Name:        Auriok Steelshaper
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/1
+Card Text:        Equip costs you pay cost {1} less.
+As long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.
+Flavor Text:        4
+Artist:                Dany Orizio
+Rarity:                R
+Card #:                
+
+Card Name:        Auriok Transfixer
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Scout
+Pow/Tou:        1/1
+Card Text:        {W}, Tap: Tap target artifact.
+Flavor Text:        5
+Artist:                Stephen Tappin
+Rarity:                C
+Card #:                
+
+Card Name:        Awe Strike
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.
+Flavor Text:        6
+Artist:                Scott M. Fischer
+Rarity:                C
+Card #:                
+
+Card Name:        Banshee's Blade
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.
+Whenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        144
+Artist:                Bradley Williams
+Rarity:                U
+Card #:                
+
+Card Name:        Barter in Blood
+Card Color:        B
+Mana Cost:        2BB
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Each player sacrifices two creatures.
+Flavor Text:        57
+Artist:                Paolo Parente
+Rarity:                U
+Card #:                
+
+Card Name:        Battlegrowth
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Put a +1/+1 counter on target creature.
+Flavor Text:        113
+Artist:                John Matson
+Rarity:                C
+Card #:                
+
+Card Name:        Betrayal of Flesh
+Card Color:        B
+Mana Cost:        5B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Destroy target creature.
+ Return target creature card from your graveyard to the battlefield.
+EntwineSacrifice three lands. (Choose both if you pay the entwine cost.)
+Flavor Text:        58
+Artist:                Wayne England
+Rarity:                U
+Card #:                
+
+Card Name:        Blinding Beam
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Tap two target creatures.
+ Creatures don't untap during target player's next untap step.
+Entwine {1} (Choose both if you pay the entwine cost.)
+Flavor Text:        7
+Artist:                Doug Chaffee
+Rarity:                C
+Card #:                
+
+Card Name:        Blinkmoth Urn
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {1} to his or her mana pool for each artifact he or she controls.
+Flavor Text:        145
+Artist:                David Martin
+Rarity:                R
+Card #:                
+
+Card Name:        Blinkmoth Well
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+{2}, Tap: Tap target noncreature artifact.
+Flavor Text:        279
+Artist:                David Martin
+Rarity:                U
+Card #:                
+
+Card Name:        Bloodscent
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        All creatures able to block target creature this turn do so.
+Flavor Text:        114
+Artist:                Matt Cavotta
+Rarity:                U
+Card #:                
+
+Card Name:        Bonesplitter
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +2/+0.
+Equip {1}
+Flavor Text:        146
+Artist:                Darrell Riche
+Rarity:                C
+Card #:                
+
+Card Name:        Bosh, Iron Golem
+Card Color:        Art
+Mana Cost:        8
+Type & Class:         Legendary Artifact Creature  Golem
+Pow/Tou:        6/7
+Card Text:        Trample
+{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.
+Flavor Text:        147
+Artist:                Brom
+Rarity:                R
+Card #:                
+
+Card Name:        Bottle Gnomes
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Gnome
+Pow/Tou:        1/3
+Card Text:        Sacrifice Bottle Gnomes: You gain 3 life.
+Flavor Text:        148
+Artist:                Ben Thompson
+Rarity:                U
+Card #:                
+
+Card Name:        Broodstar
+Card Color:        U
+Mana Cost:        8UU
+Type & Class:         Creature  Beast
+Pow/Tou:        */*
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+Broodstar's power and toughness are each equal to the number of artifacts you control.
+Flavor Text:        31
+Artist:                Glen Angus
+Rarity:                R
+Card #:                
+
+Card Name:        Brown Ouphe
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Creature  Ouphe
+Pow/Tou:        1/1
+Card Text:        {1}{G}, Tap: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)
+Flavor Text:        115
+Artist:                Greg Hildebrandt
+Rarity:                U
+Card #:                
+
+Card Name:        Cathodion
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        3/3
+Card Text:        When Cathodion dies, add {3} to your mana pool.
+Flavor Text:        149
+Artist:                Eric Peterson
+Rarity:                U
+Card #:                
+
+Card Name:        Chalice of the Void
+Card Color:        Art
+Mana Cost:        XX
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Chalice of the Void enters the battlefield with X charge counters on it.
+Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.
+Flavor Text:        150
+Artist:                Mark Zug
+Rarity:                R
+Card #:                
+
+Card Name:        Chimney Imp
+Card Color:        B
+Mana Cost:        4B
+Type & Class:         Creature  Imp
+Pow/Tou:        1/2
+Card Text:        Flying
+When Chimney Imp dies, target opponent puts a card from his or her hand on top of his or her library.
+Flavor Text:        59
+Artist:                Christopher Moeller
+Rarity:                C
+Card #:                
+
+Card Name:        Chromatic Sphere
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {1}, Tap, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.
+Flavor Text:        151
+Artist:                Brian Snõddy
+Rarity:                C
+Card #:                
+
+Card Name:        Chrome Mox
+Card Color:        Art
+Mana Cost:        0
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.
+Tap: Add one mana of any of the exiled card's colors to your mana pool.
+Flavor Text:        152
+Artist:                Donato Giancola
+Rarity:                R
+Card #:                
+
+Card Name:        Clockwork Beetle
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact Creature  Insect
+Pow/Tou:        0/0
+Card Text:        Clockwork Beetle enters the battlefield with two +1/+1 counters on it.
+Whenever Clockwork Beetle attacks or blocks, remove a +1/+1 counter from it at end of combat.
+Flavor Text:        153
+Artist:                Arnie Swekel
+Rarity:                C
+Card #:                
+
+Card Name:        Clockwork Condor
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Bird
+Pow/Tou:        0/0
+Card Text:        Flying
+Clockwork Condor enters the battlefield with three +1/+1 counters on it.
+Whenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.
+Flavor Text:        154
+Artist:                Arnie Swekel
+Rarity:                C
+Card #:                
+
+Card Name:        Clockwork Dragon
+Card Color:        Art
+Mana Cost:        7
+Type & Class:         Artifact Creature  Dragon
+Pow/Tou:        0/0
+Card Text:        Flying
+Clockwork Dragon enters the battlefield with six +1/+1 counters on it.
+Whenever Clockwork Dragon attacks or blocks, remove a +1/+1 counter from it at end of combat.
+{3}: Put a +1/+1 counter on Clockwork Dragon.
+Flavor Text:        155
+Artist:                Arnie Swekel
+Rarity:                R
+Card #:                
+
+Card Name:        Clockwork Vorrac
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact Creature  Boar Beast
+Pow/Tou:        0/0
+Card Text:        Trample
+Clockwork Vorrac enters the battlefield with four +1/+1 counters on it.
+Whenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at end of combat.
+Tap: Put a +1/+1 counter on Clockwork Vorrac.
+Flavor Text:        156
+Artist:                Arnie Swekel
+Rarity:                U
+Card #:                
+
+Card Name:        Cloudpost
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land  Locus
+Pow/Tou:        
+Card Text:        Cloudpost enters the battlefield tapped.
+Tap: Add {1} to your mana pool for each Locus on the battlefield.
+Flavor Text:        280
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Cobalt Golem
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        2/3
+Card Text:        {1}{U}: Cobalt Golem gains flying until end of turn.
+Flavor Text:        157
+Artist:                Paolo Parente
+Rarity:                C
+Card #:                
+
+Card Name:        Confusion in the Ranks
+Card Color:        R
+Mana Cost:        3RR
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Whenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.
+Flavor Text:        87
+Artist:                Ron Spencer
+Rarity:                R
+Card #:                
+
+Card Name:        Consume Spirit
+Card Color:        B
+Mana Cost:        X1B
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.
+Flavor Text:        60
+Artist:                Matt Thompson
+Rarity:                C
+Card #:                
+
+Card Name:        Contaminated Bond
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.
+Flavor Text:        61
+Artist:                Thomas M. Baxa
+Rarity:                C
+Card #:                
+
+Card Name:        Copper Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Tap: Add {G} to your mana pool.
+Flavor Text:        158
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Copperhoof Vorrac
+Card Color:        G
+Mana Cost:        3GG
+Type & Class:         Creature  Boar Beast
+Pow/Tou:        2/2
+Card Text:        Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.
+Flavor Text:        116
+Artist:                Matt Cavotta
+Rarity:                R
+Card #:                
+
+Card Name:        Creeping Mold
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy target artifact, enchantment, or land.
+Flavor Text:        117
+Artist:                Dany Orizio
+Rarity:                U
+Card #:                
+
+Card Name:        Crystal Shard
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap or {U}, Tap: Return target creature to its owner's hand unless its controller pays {1}.
+Flavor Text:        159
+Artist:                Doug Chaffee
+Rarity:                U
+Card #:                
+
+Card Name:        Culling Scales
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of your upkeep, destroy target nonland permanent with the lowest converted mana cost. (If two or more permanents are tied for lowest cost, target any one of them.)
+Flavor Text:        160
+Artist:                Daren Bader
+Rarity:                R
+Card #:                
+
+Card Name:        Damping Matrix
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.
+Flavor Text:        161
+Artist:                Mike Dringenberg
+Rarity:                R
+Card #:                
+
+Card Name:        DeadIron Sledge
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        162
+Artist:                Ray Lago
+Rarity:                U
+Card #:                
+
+Card Name:        Deconstruct
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy target artifact. Add {G}{G}{G} to your mana pool.
+Flavor Text:        118
+Artist:                D. Alexander Gregory
+Rarity:                C
+Card #:                
+
+Card Name:        Detonate
+Card Color:        R
+Mana Cost:        XR
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.
+Flavor Text:        88
+Artist:                Dave Dorman
+Rarity:                U
+Card #:                
+
+Card Name:        Disarm
+Card Color:        U
+Mana Cost:        U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Unattach all Equipment from target creature.
+Flavor Text:        32
+Artist:                Alex HorleyOrlandelli
+Rarity:                C
+Card #:                
+
+Card Name:        Disciple of the Vault
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Creature  Human Cleric
+Pow/Tou:        1/1
+Card Text:        Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.
+Flavor Text:        62
+Artist:                Matt Thompson
+Rarity:                C
+Card #:                
+
+Card Name:        Domineer
+Card Color:        U
+Mana Cost:        1UU
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant artifact creature
+You control enchanted artifact creature.
+Flavor Text:        33
+Artist:                Jon Foster
+Rarity:                U
+Card #:                
+
+Card Name:        Dragon Blood
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap: Put a +1/+1 counter on target creature.
+Flavor Text:        163
+Artist:                Ron Spencer
+Rarity:                U
+Card #:                
+
+Card Name:        Dream's Grip
+Card Color:        U
+Mana Cost:        U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Tap target permanent.
+ Untap target permanent.
+Entwine {1} (Choose both if you pay the entwine cost.)
+Flavor Text:        34
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Dross Harvester
+Card Color:        B
+Mana Cost:        1BB
+Type & Class:         Creature  Horror
+Pow/Tou:        4/4
+Card Text:        Protection from white
+At the beginning of your end step, you lose 4 life.
+Whenever a creature dies, you gain 2 life.
+Flavor Text:        63
+Artist:                Michael Sutfin
+Rarity:                R
+Card #:                
+
+Card Name:        Dross Prowler
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Zombie
+Pow/Tou:        2/1
+Card Text:        Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Flavor Text:        64
+Artist:                Michael Sutfin
+Rarity:                C
+Card #:                
+
+Card Name:        Dross Scorpion
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Scorpion
+Pow/Tou:        3/1
+Card Text:        Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.
+Flavor Text:        164
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Duplicant
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact Creature  Shapeshifter
+Pow/Tou:        2/4
+Card Text:        Imprint  When Duplicant enters the battlefield, you may exile target nontoken creature.
+As long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.
+Flavor Text:        165
+Artist:                Thomas M. Baxa
+Rarity:                R
+Card #:                
+
+Card Name:        Duskworker
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        2/2
+Card Text:        Whenever Duskworker becomes blocked, regenerate it.
+{3}: Duskworker gets +1/+0 until end of turn.
+Flavor Text:        166
+Artist:                Greg Staples
+Rarity:                U
+Card #:                
+
+Card Name:        Electrostatic Bolt
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.
+Flavor Text:        89
+Artist:                Randy Gallegos
+Rarity:                C
+Card #:                
+
+Card Name:        Elf Replica
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Elf
+Pow/Tou:        2/2
+Card Text:        {1}{G}, Sacrifice Elf Replica: Destroy target enchantment.
+Flavor Text:        167
+Artist:                Carl Critchlow
+Rarity:                C
+Card #:                
+
+Card Name:        Empyrial Plate
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+1 for each card in your hand.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        168
+Artist:                Paolo Parente
+Rarity:                R
+Card #:                
+
+Card Name:        Extraplanar Lens
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Extraplanar Lens enters the battlefield, you may exile target land you control.
+Whenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.
+Flavor Text:        169
+Artist:                Lars GrantWest
+Rarity:                R
+Card #:                
+
+Card Name:        Fabricate
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.
+Flavor Text:        35
+Artist:                Glen Angus
+Rarity:                U
+Card #:                
+
+Card Name:        Fangren Hunter
+Card Color:        G
+Mana Cost:        3GG
+Type & Class:         Creature  Beast
+Pow/Tou:        4/4
+Card Text:        Trample
+Flavor Text:        119
+Artist:                Darrell Riche
+Rarity:                C
+Card #:                
+
+Card Name:        Farsight Mask
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.
+Flavor Text:        170
+Artist:                Ben Thompson
+Rarity:                U
+Card #:                
+
+Card Name:        Fatespinner
+Card Color:        U
+Mana Cost:        1UU
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        1/2
+Card Text:        At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.
+Flavor Text:        36
+Artist:                rk post
+Rarity:                R
+Card #:                
+
+Card Name:        Fiery Gambit
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.
+Flavor Text:        90
+Artist:                Scott M. Fischer
+Rarity:                R
+Card #:                
+
+Card Name:        Fireshrieker
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature has double strike. (It deals both firststrike and regular combat damage.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:        171
+Artist:                Christopher Moeller
+Rarity:                U
+Card #:                
+
+Card Name:        Fists of the Anvil
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +4/+0 until end of turn.
+Flavor Text:        91
+Artist:                Pete Venters
+Rarity:                C
+Card #:                
+
+Card Name:        Flayed Nim
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Skeleton
+Pow/Tou:        2/2
+Card Text:        Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.
+{2}{B}: Regenerate Flayed Nim.
+Flavor Text:        65
+Artist:                Trevor Hairsine
+Rarity:                U
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        303
+Artist:                Mark Tedin
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        304
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        305
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        306
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Forge Armor
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast Forge Armor, sacrifice an artifact.
+Put X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.
+Flavor Text:        92
+Artist:                Tony Szczudlo
+Rarity:                U
+Card #:                
+
+Card Name:        Fractured Loyalty
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Whenever enchanted creature becomes the target of a spell or ability, that spell or ability's controller gains control of that creature. (This effect lasts indefinitely.)
+Flavor Text:        93
+Artist:                Greg Staples
+Rarity:                U
+Card #:                
+
+Card Name:        Frogmite
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Frog
+Pow/Tou:        2/2
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flavor Text:        172
+Artist:                Terese Nielsen
+Rarity:                C
+Card #:                
+
+Card Name:        Galvanic Key
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Flash
+{3}, Tap: Untap target artifact.
+Flavor Text:        173
+Artist:                Tony Szczudlo
+Rarity:                C
+Card #:                
+
+Card Name:        Gate to the Æther
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of each player's upkeep, that player reveals the top card of his or her library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.
+Flavor Text:        174
+Artist:                Pete Venters
+Rarity:                R
+Card #:                
+
+Card Name:        Gilded Lotus
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add three mana of any one color to your mana pool.
+Flavor Text:        175
+Artist:                Martina Pilcerova
+Rarity:                R
+Card #:                
+
+Card Name:        Glimmervoid
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.
+Tap: Add one mana of any color to your mana pool.
+Flavor Text:        281
+Artist:                Lars GrantWest
+Rarity:                R
+Card #:                
+
+Card Name:        Glissa Sunseeker
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Legendary Creature  Elf
+Pow/Tou:        3/2
+Card Text:        First strike
+Tap: Destroy target artifact if its converted mana cost is equal to the amount of mana in your mana pool.
+Flavor Text:        120
+Artist:                Brom
+Rarity:                R
+Card #:                
+
+Card Name:        Goblin Charbelcher
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to target creature or player. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.
+Flavor Text:        176
+Artist:                Stephen Tappin
+Rarity:                R
+Card #:                
+
+Card Name:        Goblin Dirigible
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        4/4
+Card Text:        Flying
+Goblin Dirigible doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible.
+Flavor Text:        177
+Artist:                Michael Sutfin
+Rarity:                U
+Card #:                
+
+Card Name:        Goblin Replica
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Goblin
+Pow/Tou:        2/2
+Card Text:        {3}{R}, Sacrifice Goblin Replica: Destroy target artifact.
+Flavor Text:        178
+Artist:                Carl Critchlow
+Rarity:                C
+Card #:                
+
+Card Name:        Goblin Striker
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Creature  Goblin Berserker
+Pow/Tou:        1/1
+Card Text:        First strike, haste
+Flavor Text:        94
+Artist:                Kevin Dobler
+Rarity:                C
+Card #:                
+
+Card Name:        Goblin War Wagon
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Juggernaut
+Pow/Tou:        3/3
+Card Text:        Goblin War Wagon doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon.
+Flavor Text:        179
+Artist:                Doug Chaffee
+Rarity:                C
+Card #:                
+
+Card Name:        Gold Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Tap: Add {W} to your mana pool.
+Flavor Text:        180
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        GolemSkin Gauntlets
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+0 for each Equipment attached to it.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        181
+Artist:                Alan Pollack
+Rarity:                U
+Card #:                
+
+Card Name:        Grab the Reins
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Until end of turn, you gain control of target creature and it gains haste.
+ Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to target creature or player.
+Entwine {2}{R} (Choose both if you pay the entwine cost.)
+Flavor Text:        95
+Artist:                Michael Sutfin
+Rarity:                U
+Card #:                
+
+Card Name:        Granite Shard
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap or {R}, Tap: Granite Shard deals 1 damage to target creature or player.
+Flavor Text:        182
+Artist:                Doug Chaffee
+Rarity:                U
+Card #:                
+
+Card Name:        Great Furnace
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Artifact Land
+Pow/Tou:        
+Card Text:        Tap: Add {R} to your mana pool.
+Flavor Text:        282
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Grid Monitor
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        4/6
+Card Text:        You can't cast creature spells.
+Flavor Text:        183
+Artist:                Arnie Swekel
+Rarity:                R
+Card #:                
+
+Card Name:        Grim Reminder
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Search your library for a nonland card and reveal it. Each opponent who cast a card this turn with the same name as that card loses 6 life. Then shuffle your library.
+{B}{B}: Return Grim Reminder from your graveyard to your hand. Activate this ability only during your upkeep.
+Flavor Text:        66
+Artist:                Wayne England
+Rarity:                R
+Card #:                
+
+Card Name:        Groffskithur
+Card Color:        G
+Mana Cost:        5G
+Type & Class:         Creature  Beast
+Pow/Tou:        3/3
+Card Text:        Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.
+Flavor Text:        121
+Artist:                John Matson
+Rarity:                C
+Card #:                
+
+Card Name:        Heartwood Shard
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap or {G}, Tap: Target creature gains trample until end of turn.
+Flavor Text:        184
+Artist:                Doug Chaffee
+Rarity:                U
+Card #:                
+
+Card Name:        Hematite Golem
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        1/4
+Card Text:        {1}{R}: Hematite Golem gets +2/+0 until end of turn.
+Flavor Text:        185
+Artist:                Paolo Parente
+Rarity:                C
+Card #:                
+
+Card Name:        Hum of the Radix
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Each artifact spell costs {1} more to cast for each artifact its controller controls.
+Flavor Text:        122
+Artist:                John Avon
+Rarity:                R
+Card #:                
+
+Card Name:        Icy Manipulator
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {1}, Tap: Tap target artifact, creature, or land.
+Flavor Text:        186
+Artist:                Mark Zug
+Rarity:                U
+Card #:                
+
+Card Name:        Incite War
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Creatures target player controls attack this turn if able.
+ Creatures you control gain first strike until end of turn.
+Entwine {2} (Choose both if you pay the entwine cost.)
+Flavor Text:        96
+Artist:                Alex HorleyOrlandelli
+Rarity:                C
+Card #:                
+
+Card Name:        Inertia Bubble
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant artifact
+Enchanted artifact doesn't untap during its controller's untap step.
+Flavor Text:        37
+Artist:                Hugh Jamieson
+Rarity:                C
+Card #:                
+
+Card Name:        Iron Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Tap: Add {R} to your mana pool.
+Flavor Text:        187
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Irradiate
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets 1/1 until end of turn for each artifact you control.
+Flavor Text:        67
+Artist:                Dave Dorman
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        291
+Artist:                Mark Tedin
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        292
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        293
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        294
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Isochron Scepter
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.
+{2}, Tap: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+Flavor Text:        188
+Artist:                Mark Harrison
+Rarity:                U
+Card #:                
+
+Card Name:        Jinxed Choker
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.
+At the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.
+{3}: Put a charge counter on Jinxed Choker or remove one from it.
+Flavor Text:        189
+Artist:                Mike Dringenberg
+Rarity:                R
+Card #:                
+
+Card Name:        Journey of Discovery
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one 
+ Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+ You may play up to two additional lands this turn.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)
+Flavor Text:        123
+Artist:                John Matson
+Rarity:                C
+Card #:                
+
+Card Name:        Krark's Thumb
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Legendary Artifact
+Pow/Tou:        
+Card Text:        If you would flip a coin, instead flip two coins and ignore one.
+Flavor Text:        190
+Artist:                Ron Spencer
+Rarity:                R
+Card #:                
+
+Card Name:        KrarkClan Grunt
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Goblin Warrior
+Pow/Tou:        2/2
+Card Text:        Sacrifice an artifact: KrarkClan Grunt gets +1/+0 and gains first strike until end of turn.
+Flavor Text:        97
+Artist:                Thomas M. Baxa
+Rarity:                C
+Card #:                
+
+Card Name:        KrarkClan Shaman
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Creature  Goblin Shaman
+Pow/Tou:        1/1
+Card Text:        Sacrifice an artifact: KrarkClan Shaman deals 1 damage to each creature without flying.
+Flavor Text:        98
+Artist:                Thomas M. Baxa
+Rarity:                C
+Card #:                
+
+Card Name:        Leaden Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Tap: Add {B} to your mana pool.
+Flavor Text:        191
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Leonin Abunas
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Cat Cleric
+Pow/Tou:        2/5
+Card Text:        Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)
+Flavor Text:        8
+Artist:                Darrell Riche
+Rarity:                R
+Card #:                
+
+Card Name:        Leonin Bladetrap
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Flash (You may cast this spell any time you could cast an instant.)
+{2}, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each attacking creature without flying.
+Flavor Text:        192
+Artist:                Randy Gallegos
+Rarity:                U
+Card #:                
+
+Card Name:        Leonin DenGuard
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Cat Soldier
+Pow/Tou:        1/3
+Card Text:        As long as Leonin DenGuard is equipped, it gets +1/+1 and has vigilance.
+Flavor Text:        9
+Artist:                Todd Lockwood
+Rarity:                C
+Card #:                
+
+Card Name:        Leonin Elder
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Cat Cleric
+Pow/Tou:        1/1
+Card Text:        Whenever an artifact enters the battlefield, you may gain 1 life.
+Flavor Text:        10
+Artist:                Todd Lockwood
+Rarity:                C
+Card #:                
+
+Card Name:        Leonin Scimitar
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:        193
+Artist:                Doug Chaffee
+Rarity:                C
+Card #:                
+
+Card Name:        Leonin Skyhunter
+Card Color:        W
+Mana Cost:        WW
+Type & Class:         Creature  Cat Knight
+Pow/Tou:        2/2
+Card Text:        Flying
+Flavor Text:        11
+Artist:                Kev Walker
+Rarity:                U
+Card #:                
+
+Card Name:        Leonin Sun Standard
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {1}{W}: Creatures you control get +1/+1 until end of turn.
+Flavor Text:        194
+Artist:                Jim Nelson
+Rarity:                R
+Card #:                
+
+Card Name:        Leveler
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact Creature  Juggernaut
+Pow/Tou:        10/10
+Card Text:        When Leveler enters the battlefield, exile all cards from your library.
+Flavor Text:        195
+Artist:                Carl Critchlow
+Rarity:                R
+Card #:                
+
+Card Name:        Liar's Pendulum
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}, Tap: Name a card. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card.
+Flavor Text:        196
+Artist:                Christopher Moeller
+Rarity:                R
+Card #:                
+
+Card Name:        Lifespark Spellbomb
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.
+{1}, Sacrifice Lifespark Spellbomb: Draw a card.
+Flavor Text:        197
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Lightning Coils
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.
+At the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and put that many 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.
+Flavor Text:        198
+Artist:                Brian Snõddy
+Rarity:                R
+Card #:                
+
+Card Name:        Lightning Greaves
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)
+Equip {0}
+Flavor Text:        199
+Artist:                Jeremy Jarvis
+Rarity:                U
+Card #:                
+
+Card Name:        Living Hive
+Card Color:        G
+Mana Cost:        6GG
+Type & Class:         Creature  Elemental Insect
+Pow/Tou:        6/6
+Card Text:        Trample
+Whenever Living Hive deals combat damage to a player, put that many 1/1 green Insect creature tokens onto the battlefield.
+Flavor Text:        124
+Artist:                Anthony S. Waters
+Rarity:                R
+Card #:                
+
+Card Name:        Lodestone Myr
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        2/2
+Card Text:        Trample
+Tap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.
+Flavor Text:        200
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Looming Hoverguard
+Card Color:        U
+Mana Cost:        4UU
+Type & Class:         Creature  Drone
+Pow/Tou:        3/3
+Card Text:        Flying
+When Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.
+Flavor Text:        38
+Artist:                Scott M. Fischer
+Rarity:                U
+Card #:                
+
+Card Name:        Loxodon Mender
+Card Color:        W
+Mana Cost:        5W
+Type & Class:         Creature  Elephant Cleric
+Pow/Tou:        3/3
+Card Text:        {W}, Tap: Regenerate target artifact.
+Flavor Text:        12
+Artist:                Heather Hudson
+Rarity:                C
+Card #:                
+
+Card Name:        Loxodon Peacekeeper
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Elephant Soldier
+Pow/Tou:        4/4
+Card Text:        At the beginning of your upkeep, the player with the lowest life total gains control of Loxodon Peacekeeper. If two or more players are tied for lowest life total, you choose one of them, and that player gains control of Loxodon Peacekeeper.
+Flavor Text:        13
+Artist:                Michael Sutfin
+Rarity:                R
+Card #:                
+
+Card Name:        Loxodon Punisher
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Elephant Soldier
+Pow/Tou:        2/2
+Card Text:        Loxodon Punisher gets +2/+2 for each Equipment attached to it.
+Flavor Text:        14
+Artist:                Terese Nielsen
+Rarity:                R
+Card #:                
+
+Card Name:        Loxodon Warhammer
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +3/+0 and has trample and lifelink.
+Equip {3}
+Flavor Text:        201
+Artist:                Jeremy Jarvis
+Rarity:                U
+Card #:                
+
+Card Name:        Lumengrid Augur
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Vedalken Wizard
+Pow/Tou:        2/2
+Card Text:        {1}, Tap: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap Lumengrid Augur.
+Flavor Text:        39
+Artist:                rk post
+Rarity:                R
+Card #:                
+
+Card Name:        Lumengrid Sentinel
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        1/2
+Card Text:        Flying
+Whenever an artifact enters the battlefield under your control, you may tap target permanent.
+Flavor Text:        40
+Artist:                Scott M. Fischer
+Rarity:                U
+Card #:                
+
+Card Name:        Lumengrid Warden
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        1/3
+Card Text:        
+Flavor Text:        41
+Artist:                Matt Thompson
+Rarity:                C
+Card #:                
+
+Card Name:        Luminous Angel
+Card Color:        W
+Mana Cost:        4WWW
+Type & Class:         Creature  Angel
+Pow/Tou:        4/4
+Card Text:        Flying
+At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.
+Flavor Text:        15
+Artist:                Matthew D. Wilson
+Rarity:                R
+Card #:                
+
+Card Name:        Malachite Golem
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        5/3
+Card Text:        {1}{G}: Malachite Golem gains trample until end of turn.
+Flavor Text:        202
+Artist:                Paolo Parente
+Rarity:                C
+Card #:                
+
+Card Name:        March of the Machines
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)
+Flavor Text:        42
+Artist:                Ben Thompson
+Rarity:                R
+Card #:                
+
+Card Name:        Mask of Memory
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.
+Equip {1}
+Flavor Text:        203
+Artist:                Alan Pollack
+Rarity:                U
+Card #:                
+
+Card Name:        Mass Hysteria
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        All creatures have haste.
+Flavor Text:        99
+Artist:                Adam Rex
+Rarity:                R
+Card #:                
+
+Card Name:        Megatog
+Card Color:        R
+Mana Cost:        4RR
+Type & Class:         Creature  Atog
+Pow/Tou:        3/4
+Card Text:        Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.
+Flavor Text:        100
+Artist:                Pete Venters
+Rarity:                R
+Card #:                
+
+Card Name:        Mesmeric Orb
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever a permanent becomes untapped, that permanent's controller puts the top card of his or her library into his or her graveyard.
+Flavor Text:        204
+Artist:                David Martin
+Rarity:                R
+Card #:                
+
+Card Name:        Mind's Eye
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.
+Flavor Text:        205
+Artist:                Edward P. Beard, Jr.
+Rarity:                R
+Card #:                
+
+Card Name:        Mindslaver
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Legendary Artifact
+Pow/Tou:        
+Card Text:        {4}, Tap, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)
+Flavor Text:        206
+Artist:                Glen Angus
+Rarity:                R
+Card #:                
+
+Card Name:        Mindstorm Crown
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you.
+Flavor Text:        207
+Artist:                Ben Thompson
+Rarity:                U
+Card #:                
+
+Card Name:        Mirror Golem
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        3/4
+Card Text:        Imprint  When Mirror Golem enters the battlefield, you may exile target card from a graveyard.
+Mirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)
+Flavor Text:        208
+Artist:                Franz Vohwinkel
+Rarity:                U
+Card #:                
+
+Card Name:        Molder Slug
+Card Color:        G
+Mana Cost:        3GG
+Type & Class:         Creature  Slug Beast
+Pow/Tou:        4/6
+Card Text:        At the beginning of each player's upkeep, that player sacrifices an artifact.
+Flavor Text:        125
+Artist:                Heather Hudson
+Rarity:                R
+Card #:                
+
+Card Name:        Molten Rain
+Card Color:        R
+Mana Cost:        1RR
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.
+Flavor Text:        101
+Artist:                Hugh Jamieson
+Rarity:                C
+Card #:                
+
+Card Name:        Moriok Scavenger
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Human Rogue
+Pow/Tou:        2/3
+Card Text:        When Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand.
+Flavor Text:        68
+Artist:                Puddnhead
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        299
+Artist:                Mark Tedin
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        300
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        301
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        302
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Mourner's Shield
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Mourner's Shield enters the battlefield, you may exile target card from a graveyard.
+{2}, Tap: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.
+Flavor Text:        209
+Artist:                Carl Critchlow
+Rarity:                U
+Card #:                
+
+Card Name:        Myr Adapter
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Myr Adapter gets +1/+1 for each Equipment attached to it.
+Flavor Text:        210
+Artist:                Ben Thompson
+Rarity:                C
+Card #:                
+
+Card Name:        Myr Enforcer
+Card Color:        Art
+Mana Cost:        7
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        4/4
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flavor Text:        211
+Artist:                Greg Staples
+Rarity:                C
+Card #:                
+
+Card Name:        Myr Incubator
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {6}, Tap, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then put that many 1/1 colorless Myr artifact creature tokens onto the battlefield. Then shuffle your library.
+Flavor Text:        212
+Artist:                Alex HorleyOrlandelli
+Rarity:                R
+Card #:                
+
+Card Name:        Myr Mindservant
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        {2}, Tap: Shuffle your library.
+Flavor Text:        213
+Artist:                Dave Dorman
+Rarity:                U
+Card #:                
+
+Card Name:        Myr Prototype
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        2/2
+Card Text:        At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.
+Myr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it.
+Flavor Text:        214
+Artist:                Dave Dorman
+Rarity:                U
+Card #:                
+
+Card Name:        Myr Retriever
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        When Myr Retriever dies, return another target artifact card from your graveyard to your hand.
+Flavor Text:        215
+Artist:                Trevor Hairsine
+Rarity:                U
+Card #:                
+
+Card Name:        Necrogen Mists
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        At the beginning of each player's upkeep, that player discards a card.
+Flavor Text:        69
+Artist:                Alex HorleyOrlandelli
+Rarity:                R
+Card #:                
+
+Card Name:        Necrogen Spellbomb
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {B}, Sacrifice Necrogen Spellbomb: Target player discards a card.
+{1}, Sacrifice Necrogen Spellbomb: Draw a card.
+Flavor Text:        216
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Needlebug
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Insect
+Pow/Tou:        2/2
+Card Text:        Flash
+Protection from artifacts
+Flavor Text:        217
+Artist:                Paolo Parente
+Rarity:                U
+Card #:                
+
+Card Name:        Neurok Familiar
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Bird
+Pow/Tou:        1/1
+Card Text:        Flying
+When Neurok Familiar enters the battlefield, reveal the top card of your library. If it's an artifact card, put it into your hand. Otherwise, put it into your graveyard.
+Flavor Text:        43
+Artist:                Edward P. Beard, Jr.
+Rarity:                C
+Card #:                
+
+Card Name:        Neurok Hoversail
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        218
+Artist:                Alan Pollack
+Rarity:                C
+Card #:                
+
+Card Name:        Neurok Spy
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Human Rogue
+Pow/Tou:        2/2
+Card Text:        Neurok Spy can't be blocked as long as defending player controls an artifact.
+Flavor Text:        44
+Artist:                Daren Bader
+Rarity:                C
+Card #:                
+
+Card Name:        Nightmare Lash
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+1 for each Swamp you control.
+EquipPay 3 life. (Pay 3 life: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        219
+Artist:                Puddnhead
+Rarity:                R
+Card #:                
+
+Card Name:        Nim Devourer
+Card Color:        B
+Mana Cost:        3BB
+Type & Class:         Creature  Zombie
+Pow/Tou:        4/1
+Card Text:        Nim Devourer gets +1/+0 for each artifact you control.
+{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.
+Flavor Text:        70
+Artist:                Adam Rex
+Rarity:                R
+Card #:                
+
+Card Name:        Nim Lasher
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Zombie
+Pow/Tou:        1/1
+Card Text:        Nim Lasher gets +1/+0 for each artifact you control.
+Flavor Text:        71
+Artist:                Adam Rex
+Rarity:                C
+Card #:                
+
+Card Name:        Nim Replica
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Zombie
+Pow/Tou:        3/1
+Card Text:        {2}{B}, Sacrifice Nim Replica: Target creature gets 1/1 until end of turn.
+Flavor Text:        220
+Artist:                Carl Critchlow
+Rarity:                C
+Card #:                
+
+Card Name:        Nim Shambler
+Card Color:        B
+Mana Cost:        2BB
+Type & Class:         Creature  Zombie
+Pow/Tou:        2/1
+Card Text:        Nim Shambler gets +1/+0 for each artifact you control.
+Sacrifice a creature: Regenerate Nim Shambler.
+Flavor Text:        72
+Artist:                Adam Rex
+Rarity:                U
+Card #:                
+
+Card Name:        Nim Shrieker
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Zombie
+Pow/Tou:        0/1
+Card Text:        Flying
+Nim Shrieker gets +1/+0 for each artifact you control.
+Flavor Text:        73
+Artist:                Adam Rex
+Rarity:                C
+Card #:                
+
+Card Name:        Nuisance Engine
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}, Tap: Put a 0/1 colorless Pest artifact creature token onto the battlefield.
+Flavor Text:        221
+Artist:                Stephen Tappin
+Rarity:                U
+Card #:                
+
+Card Name:        Oblivion Stone
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {4}, Tap: Put a fate counter on target permanent.
+{5}, Tap, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.
+Flavor Text:        222
+Artist:                Sam Wood
+Rarity:                R
+Card #:                
+
+Card Name:        Ogre Leadfoot
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Creature  Ogre
+Pow/Tou:        3/3
+Card Text:        Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.
+Flavor Text:        102
+Artist:                Heather Hudson
+Rarity:                C
+Card #:                
+
+Card Name:        Omega Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/2
+Card Text:        
+Flavor Text:        223
+Artist:                Dany Orizio
+Rarity:                C
+Card #:                
+
+Card Name:        One Dozen Eyes
+Card Color:        G
+Mana Cost:        5G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one 
+ Put a 5/5 green Beast creature token onto the battlefield.
+ Put five 1/1 green Insect creature tokens onto the battlefield.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)
+Flavor Text:        126
+Artist:                Darrell Riche
+Rarity:                U
+Card #:                
+
+Card Name:        Ornithopter
+Card Color:        Art
+Mana Cost:        0
+Type & Class:         Artifact Creature  Thopter
+Pow/Tou:        0/2
+Card Text:        Flying (This creature can't be blocked except by creatures with flying or reach.)
+Flavor Text:        224
+Artist:                Dana Knutson
+Rarity:                U
+Card #:                
+
+Card Name:        Override
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Counter target spell unless its controller pays {1} for each artifact you control.
+Flavor Text:        45
+Artist:                Hugh Jamieson
+Rarity:                C
+Card #:                
+
+Card Name:        Pearl Shard
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap or {W}, Tap: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Flavor Text:        225
+Artist:                Doug Chaffee
+Rarity:                U
+Card #:                
+
+Card Name:        Pentavus
+Card Color:        Art
+Mana Cost:        7
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        0/0
+Card Text:        Pentavus enters the battlefield with five +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.
+{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.
+Flavor Text:        226
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Pewter Golem
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        4/2
+Card Text:        {1}{B}: Regenerate Pewter Golem.
+Flavor Text:        227
+Artist:                Paolo Parente
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        287
+Artist:                Mark Tedin
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        288
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        289
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        290
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Plated Slagwurm
+Card Color:        G
+Mana Cost:        4GGG
+Type & Class:         Creature  Wurm
+Pow/Tou:        8/8
+Card Text:        Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Flavor Text:        127
+Artist:                Justin Sweet
+Rarity:                R
+Card #:                
+
+Card Name:        Platinum Angel
+Card Color:        Art
+Mana Cost:        7
+Type & Class:         Artifact Creature  Angel
+Pow/Tou:        4/4
+Card Text:        Flying
+You can't lose the game and your opponents can't win the game.
+Flavor Text:        228
+Artist:                Brom
+Rarity:                R
+Card #:                
+
+Card Name:        Power Conduit
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap, Remove a counter from a permanent you control: Choose one 
+ Put a charge counter on target artifact.
+ Put a +1/+1 counter on target creature.
+Flavor Text:        229
+Artist:                Todd Lockwood
+Rarity:                U
+Card #:                
+
+Card Name:        Predator's Strike
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +3/+3 and gains trample until end of turn.
+Flavor Text:        128
+Artist:                Tony Szczudlo
+Rarity:                C
+Card #:                
+
+Card Name:        Promise of Power
+Card Color:        B
+Mana Cost:        2BBB
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one  
+ You draw five cards and you lose 5 life.
+ Put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand.
+Entwine {4} (Choose both if you pay the entwine cost.)
+Flavor Text:        74
+Artist:                Kev Walker
+Rarity:                R
+Card #:                
+
+Card Name:        Proteus Staff
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}{U}, Tap: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield and the rest on the bottom of his or her library in any order. Activate this ability only any time you could cast a sorcery.
+Flavor Text:        230
+Artist:                Trevor Hairsine
+Rarity:                R
+Card #:                
+
+Card Name:        Psychic Membrane
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Wall
+Pow/Tou:        0/3
+Card Text:        Defender (This creature can't attack.)
+Whenever Psychic Membrane blocks, you may draw a card.
+Flavor Text:        46
+Artist:                Tony Szczudlo
+Rarity:                U
+Card #:                
+
+Card Name:        Psychogenic Probe
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever a spell or ability causes a player to shuffle his or her library, Psychogenic Probe deals 2 damage to him or her.
+Flavor Text:        231
+Artist:                Jeremy Jarvis
+Rarity:                R
+Card #:                
+
+Card Name:        Pyrite Spellbomb
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.
+{1}, Sacrifice Pyrite Spellbomb: Draw a card.
+Flavor Text:        232
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Quicksilver Elemental
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Creature  Elemental
+Pow/Tou:        3/4
+Card Text:        {U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)
+You may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.
+Flavor Text:        47
+Artist:                Tony Szczudlo
+Rarity:                R
+Card #:                
+
+Card Name:        Quicksilver Fountain
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of each player's upkeep, that player puts a flood counter on target nonIsland land he or she controls of his or her choice. That land is an Island for as long as it has a flood counter on it.
+At the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.
+Flavor Text:        233
+Artist:                Trevor Hairsine
+Rarity:                R
+Card #:                
+
+Card Name:        Raise the Alarm
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Put two 1/1 white Soldier creature tokens onto the battlefield.
+Flavor Text:        16
+Artist:                John Matson
+Rarity:                C
+Card #:                
+
+Card Name:        Razor Barrier
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target permanent you control gains protection from artifacts or from the color of your choice until end of turn.
+Flavor Text:        17
+Artist:                Ron Spencer
+Rarity:                C
+Card #:                
+
+Card Name:        Regress
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Return target permanent to its owner's hand.
+Flavor Text:        48
+Artist:                Randy Gallegos
+Rarity:                C
+Card #:                
+
+Card Name:        Reiver Demon
+Card Color:        B
+Mana Cost:        4BBBB
+Type & Class:         Creature  Demon
+Pow/Tou:        6/6
+Card Text:        Flying
+When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.
+Flavor Text:        75
+Artist:                Brom
+Rarity:                R
+Card #:                
+
+Card Name:        Relic Bane
+Card Color:        B
+Mana Cost:        1BB
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant artifact
+Enchanted artifact has "At the beginning of your upkeep, you lose 2 life."
+Flavor Text:        76
+Artist:                Eric Peterson
+Rarity:                U
+Card #:                
+
+Card Name:        Roar of the Kha
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Creatures you control get +1/+1 until end of turn.
+ Untap all creatures you control.
+Entwine {1}{W} (Choose both if you pay the entwine cost.)
+Flavor Text:        18
+Artist:                Matt Cavotta
+Rarity:                U
+Card #:                
+
+Card Name:        Rule of Law
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Each player can't cast more than one spell each turn.
+Flavor Text:        19
+Artist:                Scott M. Fischer
+Rarity:                R
+Card #:                
+
+Card Name:        Rust Elemental
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Elemental
+Pow/Tou:        4/4
+Card Text:        Flying
+At the beginning of your upkeep, sacrifice an artifact other than Rust Elemental. If you can't, tap Rust Elemental and you lose 4 life.
+Flavor Text:        234
+Artist:                Arnie Swekel
+Rarity:                U
+Card #:                
+
+Card Name:        Rustmouth Ogre
+Card Color:        R
+Mana Cost:        4RR
+Type & Class:         Creature  Ogre
+Pow/Tou:        5/4
+Card Text:        Whenever Rustmouth Ogre deals combat damage to a player, you may destroy target artifact that player controls.
+Flavor Text:        103
+Artist:                Brian Snõddy
+Rarity:                U
+Card #:                
+
+Card Name:        Rustspore Ram
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Sheep
+Pow/Tou:        1/3
+Card Text:        When Rustspore Ram enters the battlefield, destroy target Equipment.
+Flavor Text:        235
+Artist:                Arnie Swekel
+Rarity:                U
+Card #:                
+
+Card Name:        Scale of ChissGoria
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Flash
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Tap: Target creature gets +0/+1 until end of turn.
+Flavor Text:        236
+Artist:                Alan Pollack
+Rarity:                C
+Card #:                
+
+Card Name:        Scrabbling Claws
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Target player exiles a card from his or her graveyard.
+{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.
+Flavor Text:        237
+Artist:                Thomas M. Baxa
+Rarity:                U
+Card #:                
+
+Card Name:        Sculpting Steel
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.
+Flavor Text:        238
+Artist:                Heather Hudson
+Rarity:                R
+Card #:                
+
+Card Name:        Scythe of the Wretched
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +2/+2.
+Whenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.
+Equip {4}
+Flavor Text:        239
+Artist:                Matt Cavotta
+Rarity:                R
+Card #:                
+
+Card Name:        Seat of the Synod
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Artifact Land
+Pow/Tou:        
+Card Text:        (Seat of the Synod isn't a spell.)
+Tap: Add {U} to your mana pool.
+Flavor Text:        283
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Second Sunrise
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Each player returns to the battlefield all artifact, creature, enchantment, and land cards in his or her graveyard that were put there from the battlefield this turn.
+Flavor Text:        20
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Seething Song
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Add {R}{R}{R}{R}{R} to your mana pool.
+Flavor Text:        104
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Serum Tank
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.
+{3}, Tap, Remove a charge counter from Serum Tank: Draw a card.
+Flavor Text:        240
+Artist:                Corey D. Macourek
+Rarity:                U
+Card #:                
+
+Card Name:        Shared Fate
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        If a player would draw a card, that player exiles the top card of an opponent's library face down instead.
+Each player may look at and play cards he or she exiled with Shared Fate.
+Flavor Text:        49
+Artist:                Matt Cavotta
+Rarity:                R
+Card #:                
+
+Card Name:        Shatter
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target artifact.
+Flavor Text:        105
+Artist:                Tim Hildebrandt
+Rarity:                C
+Card #:                
+
+Card Name:        Shrapnel Blast
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast Shrapnel Blast, sacrifice an artifact.
+Shrapnel Blast deals 5 damage to target creature or player.
+Flavor Text:        106
+Artist:                Dave Dorman
+Rarity:                U
+Card #:                
+
+Card Name:        Silver Myr
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact Creature  Myr
+Pow/Tou:        1/1
+Card Text:        Tap: Add {U} to your mana pool.
+Flavor Text:        241
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Skeleton Shard
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {3}, Tap or {B}, Tap: Return target artifact creature card from your graveyard to your hand.
+Flavor Text:        242
+Artist:                Doug Chaffee
+Rarity:                U
+Card #:                
+
+Card Name:        Skyhunter Cub
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Cat Knight
+Pow/Tou:        2/2
+Card Text:        As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.
+Flavor Text:        21
+Artist:                Pete Venters
+Rarity:                C
+Card #:                
+
+Card Name:        Skyhunter Patrol
+Card Color:        W
+Mana Cost:        2WW
+Type & Class:         Creature  Cat Knight
+Pow/Tou:        2/3
+Card Text:        Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)
+Flavor Text:        22
+Artist:                Matt Cavotta
+Rarity:                C
+Card #:                
+
+Card Name:        Slagwurm Armor
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +0/+6.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        243
+Artist:                Justin Sweet
+Rarity:                C
+Card #:                
+
+Card Name:        Slith Ascendant
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Creature  Slith
+Pow/Tou:        1/1
+Card Text:        Flying
+Whenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:        23
+Artist:                Justin Sweet
+Rarity:                U
+Card #:                
+
+Card Name:        Slith Bloodletter
+Card Color:        B
+Mana Cost:        BB
+Type & Class:         Creature  Slith
+Pow/Tou:        1/1
+Card Text:        Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.
+{1}{B}: Regenerate Slith Bloodletter.
+Flavor Text:        77
+Artist:                Justin Sweet
+Rarity:                U
+Card #:                
+
+Card Name:        Slith Firewalker
+Card Color:        R
+Mana Cost:        RR
+Type & Class:         Creature  Slith
+Pow/Tou:        1/1
+Card Text:        Haste
+Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:        107
+Artist:                Justin Sweet
+Rarity:                U
+Card #:                
+
+Card Name:        Slith Predator
+Card Color:        G
+Mana Cost:        GG
+Type & Class:         Creature  Slith
+Pow/Tou:        1/1
+Card Text:        Trample
+Whenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:        129
+Artist:                Justin Sweet
+Rarity:                U
+Card #:                
+
+Card Name:        Slith Strider
+Card Color:        U
+Mana Cost:        1UU
+Type & Class:         Creature  Slith
+Pow/Tou:        1/1
+Card Text:        Whenever Slith Strider becomes blocked, draw a card.
+Whenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.
+Flavor Text:        50
+Artist:                Justin Sweet
+Rarity:                U
+Card #:                
+
+Card Name:        Solar Tide
+Card Color:        W
+Mana Cost:        4WW
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one 
+ Destroy all creatures with power 2 or less.
+ Destroy all creatures with power 3 or greater.
+EntwineSacrifice two lands. (Choose both if you pay the entwine cost.)
+Flavor Text:        24
+Artist:                Dave Dorman
+Rarity:                R
+Card #:                
+
+Card Name:        Soldier Replica
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Soldier
+Pow/Tou:        1/3
+Card Text:        {1}{W}, Sacrifice Soldier Replica: Soldier Replica deals 3 damage to target attacking or blocking creature.
+Flavor Text:        244
+Artist:                Carl Critchlow
+Rarity:                C
+Card #:                
+
+Card Name:        Solemn Simulacrum
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        2/2
+Card Text:        When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.
+When Solemn Simulacrum dies, you may draw a card.
+Flavor Text:        245
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Somber Hoverguard
+Card Color:        U
+Mana Cost:        5U
+Type & Class:         Creature  Drone
+Pow/Tou:        3/2
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+Flavor Text:        51
+Artist:                Adam Rex
+Rarity:                C
+Card #:                
+
+Card Name:        Soul Foundry
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Soul Foundry enters the battlefield, you may exile a creature card from your hand.
+{X}, Tap: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.
+Flavor Text:        246
+Artist:                Arnie Swekel
+Rarity:                R
+Card #:                
+
+Card Name:        Soul Nova
+Card Color:        W
+Mana Cost:        3WW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile target attacking creature and all Equipment attached to it.
+Flavor Text:        25
+Artist:                Keith Garletts
+Rarity:                U
+Card #:                
+
+Card Name:        Spellweaver Helix
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Spellweaver Helix enters the battlefield, you may exile two target sorcery cards from a single graveyard.
+Whenever a player casts a card, if it has the same name as one of the cards exiled with Spellweaver Helix, you may copy the other. If you do, you may cast the copy without paying its mana cost.
+Flavor Text:        247
+Artist:                Luca Zontini
+Rarity:                R
+Card #:                
+
+Card Name:        Sphere of Purity
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        If an artifact would deal damage to you, prevent 1 of that damage.
+Flavor Text:        26
+Artist:                Thomas Gianni
+Rarity:                C
+Card #:                
+
+Card Name:        Spikeshot Goblin
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Goblin Shaman
+Pow/Tou:        1/2
+Card Text:        {R}, Tap: Spikeshot Goblin deals damage equal to its power to target creature or player.
+Flavor Text:        108
+Artist:                Alan Pollack
+Rarity:                C
+Card #:                
+
+Card Name:        Spoils of the Vault
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Name a card. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.
+Flavor Text:        78
+Artist:                Thomas M. Baxa
+Rarity:                R
+Card #:                
+
+Card Name:        Stalking Stones
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.)
+Flavor Text:        284
+Artist:                David Day
+Rarity:                U
+Card #:                
+
+Card Name:        Steel Wall
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact Creature  Wall
+Pow/Tou:        0/4
+Card Text:        Defender (This creature can't attack.)
+Flavor Text:        248
+Artist:                David Day
+Rarity:                C
+Card #:                
+
+Card Name:        Sun Droplet
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever you're dealt damage, put that many charge counters on Sun Droplet.
+At the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.
+Flavor Text:        249
+Artist:                Tim Hildebrandt
+Rarity:                U
+Card #:                
+
+Card Name:        Sunbeam Spellbomb
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.
+{1}, Sacrifice Sunbeam Spellbomb: Draw a card.
+Flavor Text:        250
+Artist:                Jim Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        295
+Artist:                Mark Tedin
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        296
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        297
+Artist:                Martina Pilcerova
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        298
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Sword of Kaldra
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Legendary Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +5/+5.
+Whenever equipped creature deals damage to a creature, exile that creature.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        251
+Artist:                Donato Giancola
+Rarity:                R
+Card #:                
+
+Card Name:        Sylvan Scrying
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.
+Flavor Text:        130
+Artist:                Scott M. Fischer
+Rarity:                U
+Card #:                
+
+Card Name:        Synod Sanctum
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}, Tap: Exile target permanent you control.
+{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.
+Flavor Text:        252
+Artist:                Dana Knutson
+Rarity:                U
+Card #:                
+
+Card Name:        TajNar Swordsmith
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Cat Soldier
+Pow/Tou:        2/3
+Card Text:        When TajNar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.
+Flavor Text:        27
+Artist:                Todd Lockwood
+Rarity:                U
+Card #:                
+
+Card Name:        Talisman of Dominance
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add {U} or {B} to your mana pool. Talisman of Dominance deals 1 damage to you.
+Flavor Text:        253
+Artist:                Mike Dringenberg
+Rarity:                U
+Card #:                
+
+Card Name:        Talisman of Impulse
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add {R} or {G} to your mana pool. Talisman of Impulse deals 1 damage to you.
+Flavor Text:        254
+Artist:                Mike Dringenberg
+Rarity:                U
+Card #:                
+
+Card Name:        Talisman of Indulgence
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add {B} or {R} to your mana pool. Talisman of Indulgence deals 1 damage to you.
+Flavor Text:        255
+Artist:                Mike Dringenberg
+Rarity:                U
+Card #:                
+
+Card Name:        Talisman of Progress
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add {W} or {U} to your mana pool. Talisman of Progress deals 1 damage to you.
+Flavor Text:        256
+Artist:                Mike Dringenberg
+Rarity:                U
+Card #:                
+
+Card Name:        Talisman of Unity
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add {G} or {W} to your mana pool. Talisman of Unity deals 1 damage to you.
+Flavor Text:        257
+Artist:                Mike Dringenberg
+Rarity:                U
+Card #:                
+
+Card Name:        Tanglebloom
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {1}, Tap: You gain 1 life.
+Flavor Text:        258
+Artist:                Val Mayerik
+Rarity:                C
+Card #:                
+
+Card Name:        Tangleroot
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Whenever a player casts a creature spell, that player adds {G} to his or her mana pool.
+Flavor Text:        259
+Artist:                Dana Knutson
+Rarity:                R
+Card #:                
+
+Card Name:        TelJilad Archers
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Creature  Elf Archer
+Pow/Tou:        2/4
+Card Text:        Protection from artifacts; reach (This creature can block creatures with flying.)
+Flavor Text:        131
+Artist:                Marcelo Vignali
+Rarity:                C
+Card #:                
+
+Card Name:        TelJilad Chosen
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Elf Warrior
+Pow/Tou:        2/1
+Card Text:        Protection from artifacts
+Flavor Text:        132
+Artist:                Matthew D. Wilson
+Rarity:                C
+Card #:                
+
+Card Name:        TelJilad Exile
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Creature  Troll Warrior
+Pow/Tou:        2/3
+Card Text:        {1}{G}: Regenerate TelJilad Exile.
+Flavor Text:        133
+Artist:                Justin Sweet
+Rarity:                C
+Card #:                
+
+Card Name:        TelJilad Stylus
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Put target permanent you own on the bottom of your library.
+Flavor Text:        260
+Artist:                Darrell Riche
+Rarity:                U
+Card #:                
+
+Card Name:        Tempest of Light
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy all enchantments.
+Flavor Text:        28
+Artist:                Wayne England
+Rarity:                U
+Card #:                
+
+Card Name:        Temporal Cascade
+Card Color:        U
+Mana Cost:        5UU
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one 
+ Each player shuffles his or her hand and graveyard into his or her library.
+ Each player draws seven cards.
+Entwine {2} (Choose both if you pay the entwine cost.)
+Flavor Text:        52
+Artist:                Puddnhead
+Rarity:                R
+Card #:                
+
+Card Name:        Terror
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target nonartifact, nonblack creature. It can't be regenerated.
+Flavor Text:        79
+Artist:                Puddnhead
+Rarity:                C
+Card #:                
+
+Card Name:        Thirst for Knowledge
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Draw three cards. Then discard two cards unless you discard an artifact card.
+Flavor Text:        53
+Artist:                Ben Thompson
+Rarity:                U
+Card #:                
+
+Card Name:        Thought Prison
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Imprint  When Thought Prison enters the battlefield, you may have target player reveal his or her hand. If you do, choose a nonland card from it and exile that card.
+Whenever a player casts a spell that shares a color or converted mana cost with the exiled card, Thought Prison deals 2 damage to that player.
+Flavor Text:        261
+Artist:                Glen Angus
+Rarity:                U
+Card #:                
+
+Card Name:        Thoughtcast
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.
+Flavor Text:        54
+Artist:                Greg Hildebrandt
+Rarity:                C
+Card #:                
+
+Card Name:        Timesifter
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        At the beginning of each upkeep, each player exiles the top card of his or her library. The player who exiled the card with the highest converted mana cost takes an extra turn after this one. If two or more players' cards are tied for highest cost, the tied players repeat this process until the tie is broken.
+Flavor Text:        262
+Artist:                Dany Orizio
+Rarity:                R
+Card #:                
+
+Card Name:        Titanium Golem
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        3/3
+Card Text:        {1}{W}: Titanium Golem gains first strike until end of turn.
+Flavor Text:        263
+Artist:                Paolo Parente
+Rarity:                C
+Card #:                
+
+Card Name:        Tooth and Nail
+Card Color:        G
+Mana Cost:        5GG
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one 
+ Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library.
+ Put up to two creature cards from your hand onto the battlefield.
+Entwine {2} (Choose both if you pay the entwine cost.)
+Flavor Text:        134
+Artist:                Greg Hildebrandt
+Rarity:                R
+Card #:                
+
+Card Name:        Tooth of ChissGoria
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Flash
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Tap: Target creature gets +1/+0 until end of turn.
+Flavor Text:        264
+Artist:                Alan Pollack
+Rarity:                C
+Card #:                
+
+Card Name:        Tower of Champions
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {8}, Tap: Target creature gets +6/+6 until end of turn.
+Flavor Text:        265
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Tower of Eons
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {8}, Tap: You gain 10 life.
+Flavor Text:        266
+Artist:                John Avon
+Rarity:                R
+Card #:                
+
+Card Name:        Tower of Fortunes
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {8}, Tap: Draw four cards.
+Flavor Text:        267
+Artist:                Matt Cavotta
+Rarity:                R
+Card #:                
+
+Card Name:        Tower of Murmurs
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {8}, Tap: Target player puts the top eight cards of his or her library into his or her graveyard.
+Flavor Text:        268
+Artist:                Glen Angus
+Rarity:                R
+Card #:                
+
+Card Name:        Trash for Treasure
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        As an additional cost to cast Trash for Treasure, sacrifice an artifact.
+Return target artifact card from your graveyard to the battlefield.
+Flavor Text:        109
+Artist:                Lars GrantWest
+Rarity:                R
+Card #:                
+
+Card Name:        Tree of Tales
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Artifact Land
+Pow/Tou:        
+Card Text:        (Tree of Tales isn't a spell.)
+Tap: Add {G} to your mana pool.
+Flavor Text:        285
+Artist:                John Avon
+Rarity:                C
+Card #:                
+
+Card Name:        Triskelion
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Artifact Creature  Construct
+Pow/Tou:        1/1
+Card Text:        Triskelion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.
+Flavor Text:        269
+Artist:                Christopher Moeller
+Rarity:                R
+Card #:                
+
+Card Name:        Troll Ascetic
+Card Color:        G
+Mana Cost:        1GG
+Type & Class:         Creature  Troll Shaman
+Pow/Tou:        3/2
+Card Text:        Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Troll Ascetic.
+Flavor Text:        135
+Artist:                Puddnhead
+Rarity:                R
+Card #:                
+
+Card Name:        Trolls of TelJilad
+Card Color:        G
+Mana Cost:        5GG
+Type & Class:         Creature  Troll Shaman
+Pow/Tou:        5/6
+Card Text:        {1}{G}: Regenerate target green creature.
+Flavor Text:        136
+Artist:                Marcelo Vignali
+Rarity:                U
+Card #:                
+
+Card Name:        Turn to Dust
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target Equipment. Add {G} to your mana pool.
+Flavor Text:        137
+Artist:                Wayne England
+Rarity:                C
+Card #:                
+
+Card Name:        Vault of Whispers
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Artifact Land
+Pow/Tou:        
+Card Text:        (Vault of Whispers isn't a spell.)
+Tap: Add {B} to your mana pool.
+Flavor Text:        286
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Vedalken Archmage
+Card Color:        U
+Mana Cost:        2UU
+Type & Class:         Creature  Vedalken Wizard
+Pow/Tou:        0/2
+Card Text:        Whenever you cast an artifact spell, draw a card.
+Flavor Text:        55
+Artist:                Kev Walker
+Rarity:                R
+Card #:                
+
+Card Name:        Vermiculos
+Card Color:        B
+Mana Cost:        4B
+Type & Class:         Creature  Horror
+Pow/Tou:        1/1
+Card Text:        Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn.
+Flavor Text:        80
+Artist:                Daren Bader
+Rarity:                R
+Card #:                
+
+Card Name:        Viridian Joiner
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Elf Druid
+Pow/Tou:        1/2
+Card Text:        Tap: Add to your mana pool an amount of {G} equal to Viridian Joiner's power.
+Flavor Text:        138
+Artist:                Daren Bader
+Rarity:                C
+Card #:                
+
+Card Name:        Viridian Longbow
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature has "Tap: This creature deals 1 damage to target creature or player."
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        270
+Artist:                Jeremy Jarvis
+Rarity:                C
+Card #:                
+
+Card Name:        Viridian Shaman
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Elf Shaman
+Pow/Tou:        2/2
+Card Text:        When Viridian Shaman enters the battlefield, destroy target artifact.
+Flavor Text:        139
+Artist:                Scott M. Fischer
+Rarity:                U
+Card #:                
+
+Card Name:        Vorrac Battlehorns
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature has trample and can't be blocked by more than one creature.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        271
+Artist:                David Martin
+Rarity:                C
+Card #:                
+
+Card Name:        Vulshok Battlegear
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +3/+3.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        272
+Artist:                Kevin Dobler
+Rarity:                U
+Card #:                
+
+Card Name:        Vulshok Battlemaster
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Haste
+When Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)
+Flavor Text:        110
+Artist:                Kev Walker
+Rarity:                R
+Card #:                
+
+Card Name:        Vulshok Berserker
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Creature  Human Berserker
+Pow/Tou:        3/2
+Card Text:        Haste (This creature can attack and Tap as soon as it comes under your control.)
+Flavor Text:        111
+Artist:                Pete Venters
+Rarity:                C
+Card #:                
+
+Card Name:        Vulshok Gauntlets
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Flavor Text:        273
+Artist:                Richard Sardinha
+Rarity:                C
+Card #:                
+
+Card Name:        Wail of the Nim
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Regenerate each creature you control.
+ Wail of the Nim deals 1 damage to each creature and each player.
+Entwine {B} (Choose both if you pay the entwine cost.)
+Flavor Text:        81
+Artist:                John Matson
+Rarity:                C
+Card #:                
+
+Card Name:        Wall of Blood
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Wall
+Pow/Tou:        0/2
+Card Text:        Defender (This creature can't attack.)
+Pay 1 life: Wall of Blood gets +1/+1 until end of turn.
+Flavor Text:        82
+Artist:                Tony Szczudlo
+Rarity:                U
+Card #:                
+
+Card Name:        Wanderguard Sentry
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Creature  Drone
+Pow/Tou:        3/3
+Card Text:        When Wanderguard Sentry enters the battlefield, look at target opponent's hand.
+Flavor Text:        56
+Artist:                Luca Zontini
+Rarity:                C
+Card #:                
+
+Card Name:        War Elemental
+Card Color:        R
+Mana Cost:        RRR
+Type & Class:         Creature  Elemental
+Pow/Tou:        1/1
+Card Text:        When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.
+Whenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental.
+Flavor Text:        112
+Artist:                Anthony S. Waters
+Rarity:                R
+Card #:                
+
+Card Name:        Welding Jar
+Card Color:        Art
+Mana Cost:        0
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Sacrifice Welding Jar: Regenerate target artifact.
+Flavor Text:        274
+Artist:                Mark Brill
+Rarity:                C
+Card #:                
+
+Card Name:        Wizard Replica
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Wizard
+Pow/Tou:        1/3
+Card Text:        Flying
+{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}.
+Flavor Text:        275
+Artist:                Carl Critchlow
+Rarity:                C
+Card #:                
+
+Card Name:        Woebearer
+Card Color:        B
+Mana Cost:        4B
+Type & Class:         Creature  Zombie
+Pow/Tou:        2/3
+Card Text:        Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand.
+Flavor Text:        83
+Artist:                Matt Thompson
+Rarity:                U
+Card #:                
+
+Card Name:        Worldslayer
+Card Color:        Art
+Mana Cost:        5
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:        276
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Wrench Mind
+Card Color:        B
+Mana Cost:        BB
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target player discards two cards unless he or she discards an artifact card.
+Flavor Text:        84
+Artist:                Pete Venters
+Rarity:                C
+Card #:                
+
+Card Name:        Wurmskin Forger
+Card Color:        G
+Mana Cost:        5GG
+Type & Class:         Creature  Elf Warrior
+Pow/Tou:        2/2
+Card Text:        When Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures.
+Flavor Text:        140
+Artist:                Justin Sweet
+Rarity:                C
+Card #:                
+
+Card Name:        Yotian Soldier
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Soldier
+Pow/Tou:        1/4
+Card Text:        Vigilance
+Flavor Text:        277
+Artist:                Luca Zontini
+Rarity:                C
+Card #:                
+

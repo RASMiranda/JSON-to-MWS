@@ -701,7 +701,7 @@ Mana Cost:        6RRR
 Type & Class:         Creature  Dragon
 Pow/Tou:        6/6
 Card Text:        Flying
-{X}, Tap: Crimson Hellkite deals X damage to target creature. Spend only red mana this way.
+{X}, Tap: Crimson Hellkite deals X damage to target creature. Spend only red mana on X.
 Flavor Text:        "Dragonfire forged me a warrior."
 Rashida Scalebane
 Artist:                Gerry Grace

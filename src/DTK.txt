@@ -1,0 +1,3106 @@
+Card Name:        AcidSpewer Dragon
+Card Color:        B
+Mana Cost:        5B
+Type & Class:         Creature  Dragon
+Pow/Tou:        3/3
+Card Text:        Flying, deathtouch
+Megamorph {5}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When AcidSpewer Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
+Flavor Text:        86
+Artist:                James Zapata
+Rarity:                U
+Card #:                
+
+Card Name:        Aerie Bowmasters
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Creature  Hound Archer
+Pow/Tou:        3/4
+Card Text:        Reach (This creature can block creatures with flying.)
+Megamorph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        170
+Artist:                Matt Stewart
+Rarity:                C
+Card #:                
+
+Card Name:        Ainok Artillerist
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Hound Archer
+Pow/Tou:        4/1
+Card Text:        Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)
+Flavor Text:        171
+Artist:                James Paick
+Rarity:                C
+Card #:                
+
+Card Name:        Ainok Survivalist
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Hound Shaman
+Pow/Tou:        2/1
+Card Text:        Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Ainok Survivalist is turned face up, destroy target artifact or enchantment an opponent controls.
+Flavor Text:        172
+Artist:                Craig J Spearing
+Rarity:                U
+Card #:                
+
+Card Name:        Ambuscade Shaman
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Orc Shaman
+Pow/Tou:        2/2
+Card Text:        Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.
+Dash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        87
+Artist:                Anthony Palumbo
+Rarity:                U
+Card #:                
+
+Card Name:        Anafenza, KinTree Spirit
+Card Color:        W
+Mana Cost:        WW
+Type & Class:         Legendary Creature  Spirit Soldier
+Pow/Tou:        2/2
+Card Text:        Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        2
+Artist:                Ryan Yee
+Rarity:                R
+Card #:                
+
+Card Name:        Ancestral Statue
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        3/4
+Card Text:        When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand.
+Flavor Text:        234
+Artist:                Tomasz Jedruszek
+Rarity:                C
+Card #:                
+
+Card Name:        Ancient Carp
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Creature  Fish
+Pow/Tou:        2/5
+Card Text:        
+Flavor Text:        44
+Artist:                Christopher Burdett
+Rarity:                C
+Card #:                
+
+Card Name:        Anticipate
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Flavor Text:        45
+Artist:                Lake Hurwitz
+Rarity:                C
+Card #:                
+
+Card Name:        Arashin Foremost
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Double strike
+Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.
+Flavor Text:        3
+Artist:                David Palumbo
+Rarity:                R
+Card #:                
+
+Card Name:        Arashin Sovereign
+Card Color:        Gld
+Mana Cost:        5GW
+Type & Class:         Creature  Dragon
+Pow/Tou:        6/6
+Card Text:        Flying
+When Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.
+Flavor Text:        212
+Artist:                Dan Scott
+Rarity:                R
+Card #:                
+
+Card Name:        Artful Maneuver
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +2/+2 until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        4
+Artist:                Lars GrantWest
+Rarity:                C
+Card #:                
+
+Card Name:        Assault Formation
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Each creature you control assigns combat damage equal to its toughness rather than its power.
+{G}: Target creature with defender can attack this turn as though it didn't have defender.
+{2}{G}: Creatures you control get +0/+1 until end of turn.
+Flavor Text:        173
+Artist:                Kieran Yanner
+Rarity:                R
+Card #:                
+
+Card Name:        Atarka Beastbreaker
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Formidable  {4}{G}: Atarka Beastbreaker gets +4/+4 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        174
+Artist:                Johannes Voss
+Rarity:                C
+Card #:                
+
+Card Name:        Atarka Efreet
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Creature  Efreet Shaman
+Pow/Tou:        5/1
+Card Text:        Megamorph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Atarka Efreet is turned face up, it deals 1 damage to target creature or player.
+Flavor Text:        128
+Artist:                Izzy
+Rarity:                C
+Card #:                
+
+Card Name:        Atarka Monument
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {R} or {G} to your mana pool.
+{4}{R}{G}: Atarka Monument becomes a 4/4 red and green Dragon artifact creature with flying until end of turn.
+Flavor Text:        235
+Artist:                Daniel Ljunggren
+Rarity:                U
+Card #:                
+
+Card Name:        Atarka Pummeler
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Creature  Ogre Warrior
+Pow/Tou:        4/5
+Card Text:        Formidable  {3}{R}{R}: Each creature you control can't be blocked this turn except by two or more creatures. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        129
+Artist:                Lucas Graciano
+Rarity:                U
+Card #:                
+
+Card Name:        Atarka's Command
+Card Color:        Gld
+Mana Cost:        RG
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose two 
+ Your opponents can't gain life this turn.
+ Atarka's Command deals 3 damage to each opponent.
+ You may put a land card from your hand onto the battlefield.
+ Creatures you control get +1/+1 and gain reach until end of turn.
+Flavor Text:        213
+Artist:                Chris Rahn
+Rarity:                R
+Card #:                
+
+Card Name:        Avatar of the Resolute
+Card Color:        G
+Mana Cost:        GG
+Type & Class:         Creature  Avatar
+Pow/Tou:        3/2
+Card Text:        Reach, trample
+Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it.
+Flavor Text:        175
+Artist:                Jeff Simpson
+Rarity:                R
+Card #:                
+
+Card Name:        Aven Sunstriker
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Creature  Bird Warrior
+Pow/Tou:        1/1
+Card Text:        Flying
+Double strike (This creature deals both firststrike and regular combat damage.)
+Megamorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        5
+Artist:                John Severin Brassell
+Rarity:                U
+Card #:                
+
+Card Name:        Aven Tactician
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Creature  Bird Soldier
+Pow/Tou:        2/3
+Card Text:        Flying
+When Aven Tactician enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        6
+Artist:                Christopher Moeller
+Rarity:                C
+Card #:                
+
+Card Name:        Battle Mastery
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Enchanted creature has double strike. (It deals both firststrike and regular combat damage.)
+Flavor Text:        7
+Artist:                Viktor Titov
+Rarity:                U
+Card #:                
+
+Card Name:        Belltoll Dragon
+Card Color:        U
+Mana Cost:        5U
+Type & Class:         Creature  Dragon
+Pow/Tou:        3/3
+Card Text:        Flying, hexproof
+Megamorph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Belltoll Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
+Flavor Text:        46
+Artist:                Zack Stella
+Rarity:                U
+Card #:                
+
+Card Name:        Berserkers' Onslaught
+Card Color:        R
+Mana Cost:        3RR
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Attacking creatures you control have double strike.
+Flavor Text:        130
+Artist:                Zoltan Boros
+Rarity:                R
+Card #:                
+
+Card Name:        Blessed Reincarnation
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile target creature an opponent controls. That player reveals cards from the top of his or her library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into his or her library.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        47
+Artist:                Kev Walker
+Rarity:                R
+Card #:                
+
+Card Name:        BloodChin Fanatic
+Card Color:        B
+Mana Cost:        1BB
+Type & Class:         Creature  Orc Warrior
+Pow/Tou:        3/3
+Card Text:        {1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.
+Flavor Text:        88
+Artist:                David Palumbo
+Rarity:                R
+Card #:                
+
+Card Name:        BloodChin Rager
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Whenever BloodChin Rager attacks, each Warrior creature you control can't be blocked this turn except by two or more creatures.
+Flavor Text:        89
+Artist:                Karl Kopinski
+Rarity:                U
+Card #:                
+
+Card Name:        Boltwing Marauder
+Card Color:        Gld
+Mana Cost:        3BR
+Type & Class:         Creature  Dragon
+Pow/Tou:        5/4
+Card Text:        Flying
+Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.
+Flavor Text:        214
+Artist:                Raymond Swanland
+Rarity:                R
+Card #:                
+
+Card Name:        Butcher's Glee
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate it. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+Flavor Text:        90
+Artist:                Jesper Ejsing
+Rarity:                C
+Card #:                
+
+Card Name:        Center Soul
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature you control gains protection from the color of your choice until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        8
+Artist:                Igor Kieryluk
+Rarity:                C
+Card #:                
+
+Card Name:        Champion of Arashin
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Hound Warrior
+Pow/Tou:        3/2
+Card Text:        Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+Flavor Text:        9
+Artist:                Joseph Meehan
+Rarity:                C
+Card #:                
+
+Card Name:        Circle of Elders
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Creature  Human Shaman
+Pow/Tou:        2/4
+Card Text:        Vigilance
+Formidable  Tap: Add {3} to your mana pool. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        176
+Artist:                Jakub Kasper
+Rarity:                U
+Card #:                
+
+Card Name:        Clone Legion
+Card Color:        U
+Mana Cost:        7UU
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        For each creature target player controls, put a token onto the battlefield that's a copy of that creature.
+Flavor Text:        48
+Artist:                Svetlin Velinov
+Rarity:                R
+Card #:                
+
+Card Name:        Coat with Venom
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +1/+2 and gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+Flavor Text:        91
+Artist:                Johann Bodin
+Rarity:                C
+Card #:                
+
+Card Name:        Collected Company
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
+Flavor Text:        177
+Artist:                Franz Vohwinkel
+Rarity:                R
+Card #:                
+
+Card Name:        Colossodon Yearling
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Beast
+Pow/Tou:        2/4
+Card Text:        
+Flavor Text:        178
+Artist:                YeongHao Han
+Rarity:                C
+Card #:                
+
+Card Name:        Commune with Lava
+Card Color:        R
+Mana Cost:        XRR
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile the top X cards of your library. Until the end of your next turn, you may play those cards.
+Flavor Text:        131
+Artist:                Ryan Barger
+Rarity:                R
+Card #:                
+
+Card Name:        Conifer Strider
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Creature  Elemental
+Pow/Tou:        5/1
+Card Text:        Hexproof (This creature can't be the target of spells or abilities your opponents control.)
+Flavor Text:        179
+Artist:                YW Tang
+Rarity:                C
+Card #:                
+
+Card Name:        Contradict
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Counter target spell.
+Draw a card.
+Flavor Text:        49
+Artist:                Steve Prescott
+Rarity:                C
+Card #:                
+
+Card Name:        Corpseweft
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        {1}{B}, Exile one or more creature cards from your graveyard: Put an X/X black Zombie Horror creature token onto the battlefield tapped, where X is twice the number of cards exiled this way.
+Flavor Text:        92
+Artist:                Nils Hamm
+Rarity:                R
+Card #:                
+
+Card Name:        Crater Elemental
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Elemental
+Pow/Tou:        0/6
+Card Text:        {R}, Tap, Sacrifice Crater Elemental: Crater Elemental deals 4 damage to target creature.
+Formidable  {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        132
+Artist:                Svetlin Velinov
+Rarity:                R
+Card #:                
+
+Card Name:        Cunning Breezedancer
+Card Color:        Gld
+Mana Cost:        4WU
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn.
+Flavor Text:        215
+Artist:                Todd Lockwood
+Rarity:                U
+Card #:                
+
+Card Name:        Custodian of the Trove
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        2/5
+Card Text:        Defender
+Custodian of the Trove enters the battlefield tapped.
+Flavor Text:        236
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        Damnable Pact
+Card Color:        B
+Mana Cost:        XBB
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target player draws X cards and loses X life.
+Flavor Text:        93
+Artist:                Zack Stella
+Rarity:                R
+Card #:                
+
+Card Name:        Dance of the Skywise
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Until end of turn, target creature you control becomes a blue Dragon Illusion with base power and toughness 4/4, loses all abilities, and gains flying.
+Flavor Text:        50
+Artist:                Jack Wang
+Rarity:                U
+Card #:                
+
+Card Name:        Deadly Wanderings
+Card Color:        B
+Mana Cost:        3BB
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        As long as you control exactly one creature, that creature gets +2/+0 and has deathtouch and lifelink.
+Flavor Text:        94
+Artist:                David Palumbo
+Rarity:                U
+Card #:                
+
+Card Name:        Death Wind
+Card Color:        B
+Mana Cost:        XB
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets X/X until end of turn.
+Flavor Text:        95
+Artist:                Nils Hamm
+Rarity:                U
+Card #:                
+
+Card Name:        Deathbringer Regent
+Card Color:        B
+Mana Cost:        5BB
+Type & Class:         Creature  Dragon
+Pow/Tou:        5/6
+Card Text:        Flying
+When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.
+Flavor Text:        96
+Artist:                Adam Paquette
+Rarity:                R
+Card #:                
+
+Card Name:        Deathmist Raptor
+Card Color:        G
+Mana Cost:        1GG
+Type & Class:         Creature  Lizard Beast
+Pow/Tou:        3/3
+Card Text:        Deathtouch
+Whenever a permanent you control is turned face up, you may return Deathmist Raptor from your graveyard to the battlefield face up or face down.
+Megamorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        180
+Artist:                Filip Burburan
+Rarity:                R
+Card #:                
+
+Card Name:        Defeat
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy target creature with power 2 or less.
+Flavor Text:        97
+Artist:                Dave Kendall
+Rarity:                C
+Card #:                
+
+Card Name:        Den Protector
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Creatures with power less than Den Protector's power can't block it.
+Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Den Protector is turned face up, return target card from your graveyard to your hand.
+Flavor Text:        181
+Artist:                Viktor Titov
+Rarity:                R
+Card #:                
+
+Card Name:        Descent of the Dragons
+Card Color:        R
+Mana Cost:        4RR
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Destroy any number of target creatures. For each creature destroyed this way, its controller puts a 4/4 red Dragon creature token with flying onto the battlefield.
+Flavor Text:        133
+Artist:                Steve Prescott
+Rarity:                R
+Card #:                
+
+Card Name:        Dirgur Nemesis
+Card Color:        U
+Mana Cost:        5U
+Type & Class:         Creature  Serpent
+Pow/Tou:        6/5
+Card Text:        Defender
+Megamorph {6}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        51
+Artist:                Mathias Kollros
+Rarity:                C
+Card #:                
+
+Card Name:        Display of Dominance
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose one 
+ Destroy target blue or black noncreature permanent.
+ Permanents you control can't be the targets of blue or black spells your opponents control this turn.
+Flavor Text:        182
+Artist:                Tomasz Jedruszek
+Rarity:                U
+Card #:                
+
+Card Name:        Draconic Roar
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast Draconic Roar, you may reveal a Dragon card from your hand.
+Draconic Roar deals 3 damage to target creature. If you revealed a Dragon card or controlled a Dragon as you cast Draconic Roar, Draconic Roar deals 3 damage to that creature's controller.
+Flavor Text:        134
+Artist:                Kev Walker
+Rarity:                U
+Card #:                
+
+Card Name:        Dragon Fodder
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Put two 1/1 red Goblin creature tokens onto the battlefield.
+Flavor Text:        135
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Dragon Hunter
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Protection from Dragons
+Dragon Hunter can block Dragons as though it had reach.
+Flavor Text:        10
+Artist:                Johannes Voss
+Rarity:                U
+Card #:                
+
+Card Name:        Dragon Tempest
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn.
+Whenever a Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.
+Flavor Text:        136
+Artist:                Willian Murai
+Rarity:                R
+Card #:                
+
+Card Name:        Dragon Whisperer
+Card Color:        R
+Mana Cost:        RR
+Type & Class:         Creature  Human Shaman
+Pow/Tou:        2/2
+Card Text:        {R}: Dragon Whisperer gains flying until end of turn.
+{1}{R}: Dragon Whisperer gets +1/+0 until end of turn.
+Formidable  {4}{R}{R}: Put a 4/4 red Dragon creature token with flying onto the battlefield. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        137
+Artist:                Chris Rallis
+Rarity:                R
+Card #:                
+
+Card Name:        Dragon's Eye Sentry
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Monk
+Pow/Tou:        1/3
+Card Text:        Defender, first strike
+Flavor Text:        11
+Artist:                Anastasia Ovchinnikova
+Rarity:                C
+Card #:                
+
+Card Name:        DragonScarred Bear
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Bear
+Pow/Tou:        3/2
+Card Text:        Formidable  {1}{G}: Regenerate DragonScarred Bear. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        183
+Artist:                Lars GrantWest
+Rarity:                C
+Card #:                
+
+Card Name:        Dragonloft Idol
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact Creature  Gargoyle
+Pow/Tou:        3/3
+Card Text:        As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying and trample.
+Flavor Text:        237
+Artist:                Jung Park
+Rarity:                U
+Card #:                
+
+Card Name:        Dragonlord Atarka
+Card Color:        Gld
+Mana Cost:        5RG
+Type & Class:         Legendary Creature  Elder Dragon
+Pow/Tou:        8/8
+Card Text:        Flying, trample
+When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.
+Flavor Text:        216
+Artist:                Karl Kopinski
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord Dromoka
+Card Color:        Gld
+Mana Cost:        4GW
+Type & Class:         Legendary Creature  Elder Dragon
+Pow/Tou:        5/7
+Card Text:        Dragonlord Dromoka can't be countered.
+Flying, lifelink
+Your opponents can't cast spells during your turn.
+Flavor Text:        217
+Artist:                Eric Deschamps
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord Kolaghan
+Card Color:        Gld
+Mana Cost:        4BR
+Type & Class:         Legendary Creature  Elder Dragon
+Pow/Tou:        6/5
+Card Text:        Flying, haste
+Other creatures you control have haste.
+Whenever an opponent casts a creature or planeswalker spell with the same name as a card in his or her graveyard, that player loses 10 life.
+Flavor Text:        218
+Artist:                Jaime Jones
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord Ojutai
+Card Color:        Gld
+Mana Cost:        3WU
+Type & Class:         Legendary Creature  Elder Dragon
+Pow/Tou:        5/4
+Card Text:        Flying
+Dragonlord Ojutai has hexproof as long as it's untapped.
+Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
+Flavor Text:        219
+Artist:                Chase Stone
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord Silumgar
+Card Color:        Gld
+Mana Cost:        4UB
+Type & Class:         Legendary Creature  Elder Dragon
+Pow/Tou:        3/5
+Card Text:        Flying, deathtouch
+When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.
+Flavor Text:        220
+Artist:                Steven Belledin
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord's Prerogative
+Card Color:        U
+Mana Cost:        4UU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast Dragonlord's Prerogative, you may reveal a Dragon card from your hand.
+If you revealed a Dragon card or controlled a Dragon as you cast Dragonlord's Prerogative, Dragonlord's Prerogative can't be countered.
+Draw four cards.
+Flavor Text:        52
+Artist:                Seb McKinnon
+Rarity:                R
+Card #:                
+
+Card Name:        Dragonlord's Servant
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Creature  Goblin Shaman
+Pow/Tou:        1/3
+Card Text:        Dragon spells you cast cost {1} less to cast.
+Flavor Text:        138
+Artist:                Steve Prescott
+Rarity:                U
+Card #:                
+
+Card Name:        Dromoka Captain
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/1
+Card Text:        First strike
+Whenever Dromoka Captain attacks, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        12
+Artist:                Matt Stewart
+Rarity:                U
+Card #:                
+
+Card Name:        Dromoka Dunecaster
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        0/2
+Card Text:        {1}{W}, Tap: Tap target creature without flying.
+Flavor Text:        13
+Artist:                Mark Winters
+Rarity:                C
+Card #:                
+
+Card Name:        Dromoka Monument
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {G} or {W} to your mana pool.
+{4}{G}{W}: Dromoka Monument becomes a 4/4 green and white Dragon artifact creature with flying until end of turn.
+Flavor Text:        238
+Artist:                Daniel Ljunggren
+Rarity:                U
+Card #:                
+
+Card Name:        Dromoka Warrior
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        3/1
+Card Text:        
+Flavor Text:        14
+Artist:                Zack Stella
+Rarity:                C
+Card #:                
+
+Card Name:        Dromoka's Command
+Card Color:        Gld
+Mana Cost:        GW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose two 
+ Prevent all damage target instant or sorcery spell would deal this turn.
+ Target player sacrifices an enchantment.
+ Put a +1/+1 counter on target creature.
+ Target creature you control fights target creature you don't control.
+Flavor Text:        221
+Artist:                James Ryman
+Rarity:                R
+Card #:                
+
+Card Name:        Dromoka's Gift
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Bolster 4. (Choose a creature with the least toughness among creatures you control and put four +1/+1 counters on it.)
+Flavor Text:        184
+Artist:                Winona Nelson
+Rarity:                U
+Card #:                
+
+Card Name:        Duress
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.
+Flavor Text:        98
+Artist:                Jason Rainville
+Rarity:                C
+Card #:                
+
+Card Name:        Dutiful Attendant
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        1/2
+Card Text:        When Dutiful Attendant dies, return another target creature card from your graveyard to your hand.
+Flavor Text:        99
+Artist:                Aaron Miller
+Rarity:                C
+Card #:                
+
+Card Name:        Echoes of the Kin Tree
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        {2}{W}: Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        15
+Artist:                Ryan Alexander Lee
+Rarity:                U
+Card #:                
+
+Card Name:        Elusive Spellfist
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Human Monk
+Pow/Tou:        1/3
+Card Text:        Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn.
+Flavor Text:        53
+Artist:                Viktor Titov
+Rarity:                C
+Card #:                
+
+Card Name:        Encase in Ice
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Flash (You may cast this spell any time you could cast an instant.)
+Enchant red or green creature
+When Encase in Ice enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Flavor Text:        54
+Artist:                Mathias Kollros
+Rarity:                U
+Card #:                
+
+Card Name:        Enduring Scalelord
+Card Color:        Gld
+Mana Cost:        4GW
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord.
+Flavor Text:        222
+Artist:                Clint Cearley
+Rarity:                U
+Card #:                
+
+Card Name:        Enduring Victory
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target attacking or blocking creature. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        16
+Artist:                Mike Sass
+Rarity:                C
+Card #:                
+
+Card Name:        Epic Confrontation
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target creature you control gets +1/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)
+Flavor Text:        185
+Artist:                Wayne Reynolds
+Rarity:                C
+Card #:                
+
+Card Name:        Evolving Wilds
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Flavor Text:        248
+Artist:                Andreas Rocha
+Rarity:                C
+Card #:                
+
+Card Name:        Explosive Vegetation
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+Flavor Text:        186
+Artist:                Florian de Gesincourt
+Rarity:                U
+Card #:                
+
+Card Name:        Fate Forgotten
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile target artifact or enchantment.
+Flavor Text:        17
+Artist:                Cliff Childs
+Rarity:                C
+Card #:                
+
+Card Name:        Flatten
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets 4/4 until end of turn.
+Flavor Text:        100
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        FoeRazer Regent
+Card Color:        G
+Mana Cost:        5GG
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/5
+Card Text:        Flying
+When FoeRazer Regent enters the battlefield, you may have it fight target creature you don't control.
+Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.
+Flavor Text:        187
+Artist:                Lucas Graciano
+Rarity:                R
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        262
+Artist:                Sam Burley
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        263
+Artist:                Titus Lunter
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        264
+Artist:                Titus Lunter
+Rarity:                C
+Card #:                
+
+Card Name:        Foul Renewal
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Return target creature card from your graveyard to your hand. Target creature gets X/X until end of turn, where X is the toughness of the card returned this way.
+Flavor Text:        101
+Artist:                Filip Burburan
+Rarity:                R
+Card #:                
+
+Card Name:        FoulTongue Invocation
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast FoulTongue Invocation, you may reveal a Dragon card from your hand.
+Target player sacrifices a creature. If you revealed a Dragon card or controlled a Dragon as you cast FoulTongue Invocation, you gain 4 life.
+Flavor Text:        102
+Artist:                Daarken
+Rarity:                U
+Card #:                
+
+Card Name:        FoulTongue Shriek
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target opponent loses 1 life for each attacking creature you control. You gain that much life.
+Flavor Text:        103
+Artist:                Dave Kendall
+Rarity:                C
+Card #:                
+
+Card Name:        Gate Smasher
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Gate Smasher can be attached only to a creature with toughness 4 or greater.
+Equipped creature gets +3/+0 and has trample.
+Equip {3}
+Flavor Text:        239
+Artist:                Filip Burburan
+Rarity:                U
+Card #:                
+
+Card Name:        Glade Watcher
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Elemental
+Pow/Tou:        3/3
+Card Text:        Defender
+Formidable  {G}: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        188
+Artist:                Jesper Ejsing
+Rarity:                C
+Card #:                
+
+Card Name:        Glaring Aegis
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+When Glaring Aegis enters the battlefield, tap target creature an opponent controls.
+Enchanted creature gets +1/+3.
+Flavor Text:        18
+Artist:                Anthony Palumbo
+Rarity:                C
+Card #:                
+
+Card Name:        Gleam of Authority
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Enchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control.
+Enchanted creature has vigilance and "{W}, Tap: Bolster 1." (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        19
+Artist:                Jakub Kasper
+Rarity:                R
+Card #:                
+
+Card Name:        Glint
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature you control gets +0/+3 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+Flavor Text:        55
+Artist:                Igor Kieryluk
+Rarity:                C
+Card #:                
+
+Card Name:        Graceblade Artisan
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Monk
+Pow/Tou:        2/3
+Card Text:        Graceblade Artisan gets +2/+2 for each Aura attached to it.
+Flavor Text:        20
+Artist:                Magali Villeneuve
+Rarity:                U
+Card #:                
+
+Card Name:        Gravepurge
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Put any number of target creature cards from your graveyard on top of your library.
+Draw a card.
+Flavor Text:        104
+Artist:                Nils Hamm
+Rarity:                C
+Card #:                
+
+Card Name:        Great Teacher's Decree
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Creatures you control get +2/+1 until end of turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        21
+Artist:                Zoltan Boros
+Rarity:                U
+Card #:                
+
+Card Name:        Guardian ShieldBearer
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        2/1
+Card Text:        Megamorph {3}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Guardian ShieldBearer is turned face up, put a +1/+1 counter on another target creature you control.
+Flavor Text:        189
+Artist:                Lindsey Look
+Rarity:                C
+Card #:                
+
+Card Name:        Gudul Lurker
+Card Color:        U
+Mana Cost:        U
+Type & Class:         Creature  Salamander
+Pow/Tou:        1/1
+Card Text:        Gudul Lurker can't be blocked.
+Megamorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        56
+Artist:                Christopher Burdett
+Rarity:                U
+Card #:                
+
+Card Name:        Gurmag Drowner
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Naga Wizard
+Pow/Tou:        2/4
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Gurmag Drowner exploits a creature, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flavor Text:        57
+Artist:                Lake Hurwitz
+Rarity:                C
+Card #:                
+
+Card Name:        Hand of Silumgar
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Flavor Text:        105
+Artist:                Lius Lasahido
+Rarity:                C
+Card #:                
+
+Card Name:        Harbinger of the Hunt
+Card Color:        Gld
+Mana Cost:        3RG
+Type & Class:         Creature  Dragon
+Pow/Tou:        5/3
+Card Text:        Flying
+{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
+{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.
+Flavor Text:        223
+Artist:                Aaron Miller
+Rarity:                R
+Card #:                
+
+Card Name:        Hardened Berserker
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Human Berserker
+Pow/Tou:        3/2
+Card Text:        Whenever Hardened Berserker attacks, the next spell you cast this turn costs {1} less to cast.
+Flavor Text:        139
+Artist:                Viktor Titov
+Rarity:                C
+Card #:                
+
+Card Name:        Haven of the Spirit Dragon
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap: Add {1} to your mana pool.
+Tap: Add one mana of any color to your mana pool. Spend this mana only to cast a Dragon creature spell.
+{2}, Tap, Sacrifice Haven of the Spirit Dragon: Return target Dragon creature card or Ugin planeswalker card from your graveyard to your hand.
+Flavor Text:        249
+Artist:                Raymond Swanland
+Rarity:                R
+Card #:                
+
+Card Name:        Hedonist's Trove
+Card Color:        B
+Mana Cost:        5BB
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        When Hedonist's Trove enters the battlefield, exile all cards from target opponent's graveyard.
+You may play land cards exiled with Hedonist's Trove.
+You may cast nonland cards exiled with Hedonist's Trove. You can't cast more than one spell this way each turn.
+Flavor Text:        106
+Artist:                Peter Mohrbacher
+Rarity:                R
+Card #:                
+
+Card Name:        Herald of Dromoka
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Vigilance
+Other Warrior creatures you control have vigilance.
+Flavor Text:        22
+Artist:                Zack Stella
+Rarity:                C
+Card #:                
+
+Card Name:        Herdchaser Dragon
+Card Color:        G
+Mana Cost:        5G
+Type & Class:         Creature  Dragon
+Pow/Tou:        3/3
+Card Text:        Flying, trample
+Megamorph {5}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Herdchaser Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
+Flavor Text:        190
+Artist:                Seb McKinnon
+Rarity:                U
+Card #:                
+
+Card Name:        Hidden Dragonslayer
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Lifelink
+Megamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls.
+Flavor Text:        23
+Artist:                Anastasia Ovchinnikova
+Rarity:                R
+Card #:                
+
+Card Name:        Icefall Regent
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/3
+Card Text:        Flying
+When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Icefall Regent. 
+Spells your opponents cast that target Icefall Regent cost {2} more to cast.
+Flavor Text:        58
+Artist:                David Gaillet
+Rarity:                R
+Card #:                
+
+Card Name:        Illusory Gains
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+You control enchanted creature.
+Whenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature.
+Flavor Text:        59
+Artist:                Kev Walker
+Rarity:                R
+Card #:                
+
+Card Name:        Impact Tremors
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent.
+Flavor Text:        140
+Artist:                Lake Hurwitz
+Rarity:                C
+Card #:                
+
+Card Name:        Inspiring Call
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn. (Damage and effects that say "destroy" don't destroy them.)
+Flavor Text:        191
+Artist:                Dan Scott
+Rarity:                U
+Card #:                
+
+Card Name:        Ire Shaman
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Creature  Orc Shaman
+Pow/Tou:        2/1
+Card Text:        Ire Shaman can't be blocked except by two or more creatures.
+Megamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card.
+Flavor Text:        141
+Artist:                Jack Wang
+Rarity:                R
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        253
+Artist:                Florian de Gesincourt
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        254
+Artist:                Florian de Gesincourt
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        255
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Keeper of the Lens
+Card Color:        Art
+Mana Cost:        1
+Type & Class:         Artifact Creature  Golem
+Pow/Tou:        1/2
+Card Text:        You may look at facedown creatures you don't control. (You may do this at any time.)
+Flavor Text:        240
+Artist:                Ryan Barger
+Rarity:                C
+Card #:                
+
+Card Name:        Kindled Fury
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +1/+0 and gains first strike until end of turn.
+Flavor Text:        142
+Artist:                Dan Scott
+Rarity:                C
+Card #:                
+
+Card Name:        Kolaghan Aspirant
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Whenever Kolaghan Aspirant becomes blocked by a creature, Kolaghan Aspirant deals 1 damage to that creature.
+Flavor Text:        143
+Artist:                Aaron Miller
+Rarity:                C
+Card #:                
+
+Card Name:        Kolaghan Forerunners
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Human Berserker
+Pow/Tou:        */3
+Card Text:        Trample
+Kolaghan Forerunners's power is equal to the number of creatures you control.
+Dash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        144
+Artist:                Jason A. Engle
+Rarity:                U
+Card #:                
+
+Card Name:        Kolaghan Monument
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {B} or {R} to your mana pool.
+{4}{B}{R}: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.
+Flavor Text:        241
+Artist:                Daniel Ljunggren
+Rarity:                U
+Card #:                
+
+Card Name:        Kolaghan Skirmisher
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/2
+Card Text:        Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        107
+Artist:                Anthony Palumbo
+Rarity:                C
+Card #:                
+
+Card Name:        Kolaghan Stormsinger
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Creature  Human Shaman
+Pow/Tou:        1/1
+Card Text:        Haste
+Megamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Kolaghan Stormsinger is turned face up, target creature gains haste until end of turn.
+Flavor Text:        145
+Artist:                Scott Murphy
+Rarity:                C
+Card #:                
+
+Card Name:        Kolaghan's Command
+Card Color:        Gld
+Mana Cost:        1BR
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose two 
+ Return target creature card from your graveyard to your hand.
+ Target player discards a card.
+ Destroy target artifact.
+ Kolaghan's Command deals 2 damage to target creature or player.
+Flavor Text:        224
+Artist:                Daarken
+Rarity:                R
+Card #:                
+
+Card Name:        Learn from the Past
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target player shuffles his or her graveyard into his or her library.
+Draw a card.
+Flavor Text:        60
+Artist:                Chase Stone
+Rarity:                U
+Card #:                
+
+Card Name:        Lightning Berserker
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Creature  Human Berserker
+Pow/Tou:        1/1
+Card Text:        {R}: Lightning Berserker gets +1/+0 until end of turn.
+Dash {R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        146
+Artist:                Joseph Meehan
+Rarity:                U
+Card #:                
+
+Card Name:        Lightwalker
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        2/1
+Card Text:        Lightwalker has flying as long as it has a +1/+1 counter on it.
+Flavor Text:        24
+Artist:                Winona Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Living Lore
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Avatar
+Pow/Tou:        */*
+Card Text:        As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.
+Living Lore's power and toughness are each equal to the exiled card's converted mana cost.
+Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.
+Flavor Text:        61
+Artist:                Jason Felix
+Rarity:                R
+Card #:                
+
+Card Name:        Lose Calm
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn and can't be blocked this turn except by two or more creatures.
+Flavor Text:        147
+Artist:                Jason A. Engle
+Rarity:                C
+Card #:                
+
+Card Name:        Lurking Arynx
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Creature  Cat Beast
+Pow/Tou:        3/5
+Card Text:        Formidable  {2}{G}: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        192
+Artist:                Carl Frank
+Rarity:                U
+Card #:                
+
+Card Name:        Magmatic Chasm
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Creatures without flying can't block this turn.
+Flavor Text:        148
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Marang River Skeleton
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Skeleton
+Pow/Tou:        1/1
+Card Text:        {B}: Regenerate Marang River Skeleton.
+Megamorph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        108
+Artist:                Jack Wang
+Rarity:                U
+Card #:                
+
+Card Name:        Marsh Hulk
+Card Color:        B
+Mana Cost:        4BB
+Type & Class:         Creature  Zombie Ogre
+Pow/Tou:        4/6
+Card Text:        Megamorph {6}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        109
+Artist:                Raf Sarmento
+Rarity:                C
+Card #:                
+
+Card Name:        Mind Rot
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target player discards two cards.
+Flavor Text:        110
+Artist:                Clint Cearley
+Rarity:                C
+Card #:                
+
+Card Name:        Minister of Pain
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Human Shaman
+Pow/Tou:        2/3
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Minister of Pain exploits a creature, creatures your opponents control get 1/1 until end of turn.
+Flavor Text:        111
+Artist:                Izzy
+Rarity:                U
+Card #:                
+
+Card Name:        Mirror Mockery
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Whenever enchanted creature attacks, you may put a token onto the battlefield that's a copy of that creature. Exile that token at end of combat.
+Flavor Text:        62
+Artist:                Ryan Alexander Lee
+Rarity:                R
+Card #:                
+
+Card Name:        Misthoof Kirin
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Kirin
+Pow/Tou:        2/1
+Card Text:        Flying, vigilance
+Megamorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        25
+Artist:                Ryan Barger
+Rarity:                C
+Card #:                
+
+Card Name:        Monastery Loremaster
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Djinn Wizard
+Pow/Tou:        3/2
+Card Text:        Megamorph {5}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Monastery Loremaster is turned face up, return target noncreature, nonland card from your graveyard to your hand.
+Flavor Text:        63
+Artist:                Ryan Alexander Lee
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        259
+Artist:                Noah Bradley
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        260
+Artist:                Noah Bradley
+Rarity:                C
+Card #:                
+
+Card Name:        Mountain
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Mountain
+Pow/Tou:        
+Card Text:        
+Flavor Text:        261
+Artist:                Titus Lunter
+Rarity:                C
+Card #:                
+
+Card Name:        Mystic Meditation
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Draw three cards. Then discard two cards unless you discard a creature card.
+Flavor Text:        64
+Artist:                Howard Lyon
+Rarity:                C
+Card #:                
+
+Card Name:        Myth Realized
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Whenever you cast a noncreature spell, put a lore counter on Myth Realized.
+{2}{W}: Put a lore counter on Myth Realized.
+{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains "This creature's power and toughness are each equal to the number of lore counters on it."
+Flavor Text:        26
+Artist:                Jason Rainville
+Rarity:                R
+Card #:                
+
+Card Name:        Narset Transcendent
+Card Color:        Gld
+Mana Cost:        2WU
+Type & Class:         Planeswalker  Narset
+Pow/Tou:        
+Card Text:        +1: Look at the top card of your library. If it's a noncreature, nonland card, you may reveal it and put it into your hand.
+2: When you cast your next instant or sorcery spell from your hand this turn, it gains rebound.
+9: You get an emblem with "Your opponents can't cast noncreature spells."
+Flavor Text:        225
+Artist:                Magali Villeneuve
+Rarity:                R
+Card #:                
+
+Card Name:        Naturalize
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target artifact or enchantment.
+Flavor Text:        193
+Artist:                James Paick
+Rarity:                C
+Card #:                
+
+Card Name:        Necromaster Dragon
+Card Color:        Gld
+Mana Cost:        3UB
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, put a 2/2 black Zombie creature token onto the battlefield and each opponent puts the top two cards of his or her library into his or her graveyard.
+Flavor Text:        226
+Artist:                Mark Zug
+Rarity:                R
+Card #:                
+
+Card Name:        Negate
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Counter target noncreature spell.
+Flavor Text:        65
+Artist:                Willian Murai
+Rarity:                C
+Card #:                
+
+Card Name:        Obscuring Æther
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Facedown creature spells you cast cost {1} less to cast.
+{1}{G}: Turn Obscuring Æther face down. (It becomes a 2/2 creature.)
+Flavor Text:        194
+Artist:                Min Yum
+Rarity:                R
+Card #:                
+
+Card Name:        Ojutai Exemplars
+Card Color:        W
+Mana Cost:        2WW
+Type & Class:         Creature  Human Monk
+Pow/Tou:        4/4
+Card Text:        Whenever you cast a noncreature spell, choose one 
+ Tap target creature.
+ Ojutai Exemplars gains first strike and lifelink until end of turn.
+ Exile Ojutai Exemplars, then return it to the battlefield tapped under its owner's control.
+Flavor Text:        27
+Artist:                Willian Murai
+Rarity:                R
+Card #:                
+
+Card Name:        Ojutai Interceptor
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Bird Soldier
+Pow/Tou:        3/1
+Card Text:        Flying
+Megamorph {3}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        66
+Artist:                Johann Bodin
+Rarity:                C
+Card #:                
+
+Card Name:        Ojutai Monument
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {W} or {U} to your mana pool.
+{4}{W}{U}: Ojutai Monument becomes a 4/4 white and blue Dragon artifact creature with flying until end of turn.
+Flavor Text:        242
+Artist:                Daniel Ljunggren
+Rarity:                U
+Card #:                
+
+Card Name:        Ojutai's Breath
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Tap target creature. It doesn't untap during its controller's next untap step.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        67
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Ojutai's Command
+Card Color:        Gld
+Mana Cost:        2WU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose two 
+ Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
+ You gain 4 life.
+ Counter target creature spell.
+ Draw a card.
+Flavor Text:        227
+Artist:                Willian Murai
+Rarity:                R
+Card #:                
+
+Card Name:        Ojutai's Summons
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        68
+Artist:                Jakub Kasper
+Rarity:                C
+Card #:                
+
+Card Name:        Orator of Ojutai
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Bird Monk
+Pow/Tou:        0/4
+Card Text:        As an additional cost to cast Orator of Ojutai, you may reveal a Dragon card from your hand.
+Defender, flying
+When Orator of Ojutai enters the battlefield, if you revealed a Dragon card or controlled a Dragon as you cast Orator of Ojutai, draw a card.
+Flavor Text:        28
+Artist:                Zack Stella
+Rarity:                U
+Card #:                
+
+Card Name:        Pacifism
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Enchanted creature can't attack or block.
+Flavor Text:        29
+Artist:                Mark Zug
+Rarity:                C
+Card #:                
+
+Card Name:        Palace Familiar
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Bird
+Pow/Tou:        1/1
+Card Text:        Flying
+When Palace Familiar dies, draw a card.
+Flavor Text:        69
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Pinion Feast
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target creature with flying. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)
+Flavor Text:        195
+Artist:                Ryan Barger
+Rarity:                C
+Card #:                
+
+Card Name:        Pitiless Horde
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Orc Berserker
+Pow/Tou:        5/3
+Card Text:        At the beginning of your upkeep, you lose 2 life.
+Dash {2}{B}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        112
+Artist:                Viktor Titov
+Rarity:                R
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        250
+Artist:                Sam Burley
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        251
+Artist:                Sam Burley
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        252
+Artist:                Florian de Gesincourt
+Rarity:                C
+Card #:                
+
+Card Name:        Press the Advantage
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Up to two target creatures each get +2/+2 and gain trample until end of turn.
+Flavor Text:        196
+Artist:                Marco Nelor
+Rarity:                U
+Card #:                
+
+Card Name:        Pristine Skywise
+Card Color:        Gld
+Mana Cost:        4WU
+Type & Class:         Creature  Dragon
+Pow/Tou:        6/4
+Card Text:        Flying
+Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.
+Flavor Text:        228
+Artist:                Adam Paquette
+Rarity:                R
+Card #:                
+
+Card Name:        Profaner of the Dead
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Naga Wizard
+Pow/Tou:        3/3
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Profaner of the Dead exploits a creature, return to their owners' hands all creatures your opponents control with toughness less than the exploited creature's toughness.
+Flavor Text:        70
+Artist:                Vincent Proce
+Rarity:                R
+Card #:                
+
+Card Name:        Profound Journey
+Card Color:        W
+Mana Cost:        5WW
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Return target permanent card from your graveyard to the battlefield.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        30
+Artist:                Tomasz Jedruszek
+Rarity:                R
+Card #:                
+
+Card Name:        Qal Sisma Behemoth
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Ogre Warrior
+Pow/Tou:        5/5
+Card Text:        Qal Sisma Behemoth can't attack or block unless you pay {2}.
+Flavor Text:        149
+Artist:                Evan Shipard
+Rarity:                U
+Card #:                
+
+Card Name:        Qarsi Deceiver
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Naga Wizard
+Pow/Tou:        0/4
+Card Text:        Tap: Add {1} to your mana pool. Spend this mana only to cast a facedown creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. (A megamorph cost is a morph cost.)
+Flavor Text:        71
+Artist:                Raymond Swanland
+Rarity:                U
+Card #:                
+
+Card Name:        Qarsi Sadist
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Human Cleric
+Pow/Tou:        1/3
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Qarsi Sadist exploits a creature, target opponent loses 2 life and you gain 2 life.
+Flavor Text:        113
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Radiant Purge
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Exile target multicolored creature or multicolored enchantment.
+Flavor Text:        31
+Artist:                Igor Kieryluk
+Rarity:                R
+Card #:                
+
+Card Name:        Rakshasa Gravecaller
+Card Color:        B
+Mana Cost:        4B
+Type & Class:         Creature  Cat Demon
+Pow/Tou:        3/6
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.
+Flavor Text:        114
+Artist:                Jakub Kasper
+Rarity:                U
+Card #:                
+
+Card Name:        Reckless Imp
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Imp
+Pow/Tou:        2/2
+Card Text:        Flying
+Reckless Imp can't block.
+Dash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        115
+Artist:                Torstein Nordstrand
+Rarity:                C
+Card #:                
+
+Card Name:        Reduce in Stature
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant creature
+Enchanted creature has base power and toughness 0/2.
+Flavor Text:        72
+Artist:                Dan Scott
+Rarity:                C
+Card #:                
+
+Card Name:        Rending Volley
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Rending Volley can't be countered by spells or abilities.
+Rending Volley deals 4 damage to target white or blue creature.
+Flavor Text:        150
+Artist:                Lucas Graciano
+Rarity:                U
+Card #:                
+
+Card Name:        Resupply
+Card Color:        W
+Mana Cost:        5W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        You gain 6 life.
+Draw a card.
+Flavor Text:        32
+Artist:                Filip Burburan
+Rarity:                C
+Card #:                
+
+Card Name:        Revealing Wind
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Prevent all combat damage that would be dealt this turn. You may look at each facedown creature that's attacking or blocking.
+Flavor Text:        197
+Artist:                Phill Simmer
+Rarity:                C
+Card #:                
+
+Card Name:        Risen Executioner
+Card Color:        B
+Mana Cost:        2BB
+Type & Class:         Creature  Zombie Warrior
+Pow/Tou:        4/3
+Card Text:        Risen Executioner can't block.
+Other Zombie creatures you control get +1/+1.
+You may cast Risen Executioner from your graveyard if you pay {1} more to cast it for each other creature card in your graveyard.
+Flavor Text:        116
+Artist:                Craig J Spearing
+Rarity:                R
+Card #:                
+
+Card Name:        Roast
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Roast deals 5 damage to target creature without flying.
+Flavor Text:        151
+Artist:                Zoltan Boros
+Rarity:                U
+Card #:                
+
+Card Name:        Ruthless Deathfang
+Card Color:        Gld
+Mana Cost:        4UB
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever you sacrifice a creature, target opponent sacrifices a creature.
+Flavor Text:        229
+Artist:                Filip Burburan
+Rarity:                U
+Card #:                
+
+Card Name:        Sabertooth Outrider
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Creature  Human Warrior
+Pow/Tou:        4/2
+Card Text:        Trample
+Formidable  Whenever Sabertooth Outrider attacks, if creatures you control have total power 8 or greater, Sabertooth Outrider gains first strike until end of turn.
+Flavor Text:        152
+Artist:                Winona Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Salt Road Ambushers
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Creature  Hound Warrior
+Pow/Tou:        3/3
+Card Text:        Whenever another permanent you control is turned face up, if it's a creature, put two +1/+1 counters on it.
+Megamorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        198
+Artist:                Joseph Meehan
+Rarity:                U
+Card #:                
+
+Card Name:        Salt Road Quartermasters
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/1
+Card Text:        Salt Road Quartermasters enters the battlefield with two +1/+1 counters on it.
+{2}{G}, Remove a +1/+1 counter from Salt Road Quartermasters: Put a +1/+1 counter on target creature.
+Flavor Text:        199
+Artist:                Anthony Palumbo
+Rarity:                U
+Card #:                
+
+Card Name:        Sandcrafter Mage
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        2/2
+Card Text:        When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        33
+Artist:                Willian Murai
+Rarity:                C
+Card #:                
+
+Card Name:        Sandsteppe Scavenger
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Creature  Hound Scout
+Pow/Tou:        2/2
+Card Text:        When Sandsteppe Scavenger enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)
+Flavor Text:        200
+Artist:                Kieran Yanner
+Rarity:                C
+Card #:                
+
+Card Name:        Sandstorm Charger
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Creature  Beast
+Pow/Tou:        3/4
+Card Text:        Megamorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        34
+Artist:                Dave Kendall
+Rarity:                C
+Card #:                
+
+Card Name:        Sarkhan Unbroken
+Card Color:        Gld
+Mana Cost:        2GUR
+Type & Class:         Planeswalker  Sarkhan
+Pow/Tou:        
+Card Text:        +1: Draw a card, then add one mana of any color to your mana pool.
+2: Put a 4/4 red Dragon creature token with flying onto the battlefield.
+8: Search your library for any number of Dragon creature cards and put them onto the battlefield. Then shuffle your library.
+Flavor Text:        230
+Artist:                Aleksi Briclot
+Rarity:                R
+Card #:                
+
+Card Name:        Sarkhan's Rage
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Sarkhan's Rage deals 5 damage to target creature or player. If you control no Dragons, Sarkhan's Rage deals 2 damage to you.
+Flavor Text:        153
+Artist:                Chris Rahn
+Rarity:                C
+Card #:                
+
+Card Name:        Sarkhan's Triumph
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Search your library for a Dragon creature card, reveal it, put it into your hand, then shuffle your library.
+Flavor Text:        154
+Artist:                Chris Rahn
+Rarity:                U
+Card #:                
+
+Card Name:        Savage Ventmaw
+Card Color:        Gld
+Mana Cost:        4RG
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever Savage Ventmaw attacks, add {R}{R}{R}{G}{G}{G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.
+Flavor Text:        231
+Artist:                Slawomir Maniak
+Rarity:                U
+Card #:                
+
+Card Name:        Scale Blessing
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Bolster 1, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it. (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)
+Flavor Text:        35
+Artist:                Matt Stewart
+Rarity:                U
+Card #:                
+
+Card Name:        Scaleguard Sentinels
+Card Color:        G
+Mana Cost:        GG
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        2/3
+Card Text:        As an additional cost to cast Scaleguard Sentinels, you may reveal a Dragon card from your hand.
+Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast Scaleguard Sentinels.
+Flavor Text:        201
+Artist:                Matt Stewart
+Rarity:                U
+Card #:                
+
+Card Name:        Scion of Ugin
+Card Color:        Art
+Mana Cost:        6
+Type & Class:         Creature  Dragon Spirit
+Pow/Tou:        4/4
+Card Text:        Flying
+Flavor Text:        1
+Artist:                Cliff Childs
+Rarity:                U
+Card #:                
+
+Card Name:        Screamreach Brawler
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Creature  Orc Berserker
+Pow/Tou:        2/3
+Card Text:        Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        155
+Artist:                Slawomir Maniak
+Rarity:                C
+Card #:                
+
+Card Name:        Secure the Wastes
+Card Color:        W
+Mana Cost:        XW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Put X 1/1 white Warrior creature tokens onto the battlefield.
+Flavor Text:        36
+Artist:                Scott Murphy
+Rarity:                R
+Card #:                
+
+Card Name:        Segmented Krotiq
+Card Color:        G
+Mana Cost:        5G
+Type & Class:         Creature  Insect
+Pow/Tou:        6/5
+Card Text:        Megamorph {6}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        202
+Artist:                Christopher Moeller
+Rarity:                C
+Card #:                
+
+Card Name:        Seismic Rupture
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Seismic Rupture deals 2 damage to each creature without flying.
+Flavor Text:        156
+Artist:                Jason A. Engle
+Rarity:                U
+Card #:                
+
+Card Name:        SelfInflicted Wound
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target opponent sacrifices a green or white creature. If that player does, he or she loses 2 life.
+Flavor Text:        117
+Artist:                Mathias Kollros
+Rarity:                U
+Card #:                
+
+Card Name:        Servant of the Scale
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        0/0
+Card Text:        Servant of the Scale enters the battlefield with a +1/+1 counter on it.
+When Servant of the Scale dies, put X +1/+1 counters on target creature you control, where X is the number of +1/+1 counters on Servant of the Scale.
+Flavor Text:        203
+Artist:                Winona Nelson
+Rarity:                C
+Card #:                
+
+Card Name:        Shaman of Forgotten Ways
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Human Shaman
+Pow/Tou:        2/3
+Card Text:        Tap: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast creature spells.
+Formidable  {9}{G}{G}, Tap: Each player's life total becomes the number of creatures he or she controls. Activate this ability only if creatures you control have total power 8 or greater.
+Flavor Text:        204
+Artist:                Tyler Jacobson
+Rarity:                R
+Card #:                
+
+Card Name:        Shambling Goblin
+Card Color:        B
+Mana Cost:        B
+Type & Class:         Creature  Zombie Goblin
+Pow/Tou:        1/1
+Card Text:        When Shambling Goblin dies, target creature an opponent controls gets 1/1 until end of turn.
+Flavor Text:        118
+Artist:                YeongHao Han
+Rarity:                C
+Card #:                
+
+Card Name:        Shape the Sands
+Card Color:        G
+Mana Cost:        G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +0/+5 and gains reach until end of turn. (It can block creatures with flying.)
+Flavor Text:        205
+Artist:                Ryan Yee
+Rarity:                C
+Card #:                
+
+Card Name:        Sheltered Aerie
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Enchantment  Aura
+Pow/Tou:        
+Card Text:        Enchant land
+Enchanted land has "Tap: Add two mana of any one color to your mana pool."
+Flavor Text:        206
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        Shieldhide Dragon
+Card Color:        W
+Mana Cost:        5W
+Type & Class:         Creature  Dragon
+Pow/Tou:        3/3
+Card Text:        Flying, lifelink
+Megamorph {5}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Shieldhide Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
+Flavor Text:        37
+Artist:                Chris Rallis
+Rarity:                U
+Card #:                
+
+Card Name:        Shorecrasher Elemental
+Card Color:        U
+Mana Cost:        UUU
+Type & Class:         Creature  Elemental
+Pow/Tou:        3/3
+Card Text:        {U}: Exile Shorecrasher Elemental, then return it to the battlefield face down under its owner's control.
+{1}: Shorecrasher Elemental gets +1/1 or 1/+1 until end of turn. 
+Megamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        73
+Artist:                Igor Kieryluk
+Rarity:                R
+Card #:                
+
+Card Name:        Sibsig Icebreakers
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Creature  Zombie
+Pow/Tou:        2/3
+Card Text:        When Sibsig Icebreakers enters the battlefield, each player discards a card.
+Flavor Text:        119
+Artist:                Zoltan Boros
+Rarity:                C
+Card #:                
+
+Card Name:        Sidisi's Faithful
+Card Color:        U
+Mana Cost:        U
+Type & Class:         Creature  Naga Wizard
+Pow/Tou:        0/4
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Sidisi's Faithful exploits a creature, return target creature to its owner's hand.
+Flavor Text:        74
+Artist:                Lius Lasahido
+Rarity:                C
+Card #:                
+
+Card Name:        Sidisi, Undead Vizier
+Card Color:        B
+Mana Cost:        3BB
+Type & Class:         Legendary Creature  Zombie Naga
+Pow/Tou:        4/6
+Card Text:        Deathtouch
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.
+Flavor Text:        120
+Artist:                Min Yum
+Rarity:                R
+Card #:                
+
+Card Name:        Sight Beyond Sight
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        75
+Artist:                Anastasia Ovchinnikova
+Rarity:                U
+Card #:                
+
+Card Name:        Sight of the Scalelords
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        At the beginning of combat on your turn, creatures you control with toughness 4 or greater get +2/+2 and gain vigilance until end of turn.
+Flavor Text:        207
+Artist:                Marc Simonetti
+Rarity:                U
+Card #:                
+
+Card Name:        Silkwrap
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)
+Flavor Text:        38
+Artist:                David Gaillet
+Rarity:                U
+Card #:                
+
+Card Name:        Silumgar Assassin
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Creature  Human Assassin
+Pow/Tou:        2/1
+Card Text:        Creatures with power greater than Silumgar Assassin's power can't block it.
+Megamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.
+Flavor Text:        121
+Artist:                Yohann Schepacz
+Rarity:                R
+Card #:                
+
+Card Name:        Silumgar Butcher
+Card Color:        B
+Mana Cost:        4B
+Type & Class:         Creature  Zombie Djinn
+Pow/Tou:        3/3
+Card Text:        Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Silumgar Butcher exploits a creature, target creature gets 3/3 until end of turn.
+Flavor Text:        122
+Artist:                Dave Kendall
+Rarity:                C
+Card #:                
+
+Card Name:        Silumgar Monument
+Card Color:        Art
+Mana Cost:        3
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        Tap: Add {U} or {B} to your mana pool.
+{4}{U}{B}: Silumgar Monument becomes a 4/4 blue and black Dragon artifact creature with flying until end of turn.
+Flavor Text:        243
+Artist:                Daniel Ljunggren
+Rarity:                U
+Card #:                
+
+Card Name:        Silumgar Sorcerer
+Card Color:        U
+Mana Cost:        1UU
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        2/1
+Card Text:        Flash (You may cast this spell any time you could cast an instant.)
+Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Silumgar Sorcerer exploits a creature, counter target creature spell.
+Flavor Text:        76
+Artist:                Jeff Simpson
+Rarity:                U
+Card #:                
+
+Card Name:        Silumgar SpellEater
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Naga Wizard
+Pow/Tou:        2/3
+Card Text:        Megamorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Silumgar SpellEater is turned face up, counter target spell unless its controller pays {3}.
+Flavor Text:        77
+Artist:                Dave Kendall
+Rarity:                U
+Card #:                
+
+Card Name:        Silumgar's Command
+Card Color:        Gld
+Mana Cost:        3UB
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Choose two 
+ Counter target noncreature spell.
+ Return target permanent to its owner's hand.
+ Target creature gets 3/3 until end of turn.
+ Destroy target planeswalker.
+Flavor Text:        232
+Artist:                Nils Hamm
+Rarity:                R
+Card #:                
+
+Card Name:        Silumgar's Scorn
+Card Color:        U
+Mana Cost:        UU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        As an additional cost to cast Silumgar's Scorn, you may reveal a Dragon card from your hand.
+Counter target spell unless its controller pays {1}. If you revealed a Dragon card or controlled a Dragon as you cast Silumgar's Scorn, counter that spell instead.
+Flavor Text:        78
+Artist:                Ryan Yee
+Rarity:                U
+Card #:                
+
+Card Name:        Skywise Teachings
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.
+Flavor Text:        79
+Artist:                Filip Burburan
+Rarity:                U
+Card #:                
+
+Card Name:        Spidersilk Net
+Card Color:        Art
+Mana Cost:        0
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Flavor Text:        244
+Artist:                Steve Argyle
+Rarity:                C
+Card #:                
+
+Card Name:        Sprinting Warbrute
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Creature  Ogre Berserker
+Pow/Tou:        5/4
+Card Text:        Sprinting Warbrute attacks each turn if able.
+Dash {3}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        157
+Artist:                Lake Hurwitz
+Rarity:                C
+Card #:                
+
+Card Name:        Stampeding Elk Herd
+Card Color:        G
+Mana Cost:        3GG
+Type & Class:         Creature  Elk
+Pow/Tou:        5/5
+Card Text:        Formidable  Whenever Stampeding Elk Herd attacks, if creatures you control have total power 8 or greater, creatures you control gain trample until end of turn.
+Flavor Text:        208
+Artist:                Carl Frank
+Rarity:                C
+Card #:                
+
+Card Name:        Stormcrag Elemental
+Card Color:        R
+Mana Cost:        5R
+Type & Class:         Creature  Elemental
+Pow/Tou:        5/5
+Card Text:        Trample
+Megamorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+Flavor Text:        158
+Artist:                Ralph Horsley
+Rarity:                U
+Card #:                
+
+Card Name:        Stormrider Rig
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact  Equipment
+Pow/Tou:        
+Card Text:        Equipped creature gets +1/+1.
+Whenever a creature enters the battlefield under your control, you may attach Stormrider Rig to it.
+Equip {2}
+Flavor Text:        245
+Artist:                Min Yum
+Rarity:                U
+Card #:                
+
+Card Name:        Stormwing Dragon
+Card Color:        R
+Mana Cost:        5R
+Type & Class:         Creature  Dragon
+Pow/Tou:        3/3
+Card Text:        Flying, first strike
+Megamorph {5}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Stormwing Dragon is turned face up, put a +1/+1 counter on each other Dragon creature you control.
+Flavor Text:        159
+Artist:                Svetlin Velinov
+Rarity:                U
+Card #:                
+
+Card Name:        Stratus Dancer
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Djinn Monk
+Pow/Tou:        2/1
+Card Text:        Flying
+Megamorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
+When Stratus Dancer is turned face up, counter target instant or sorcery spell.
+Flavor Text:        80
+Artist:                Anastasia Ovchinnikova
+Rarity:                R
+Card #:                
+
+Card Name:        Strongarm Monk
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Creature  Human Monk
+Pow/Tou:        3/3
+Card Text:        Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+Flavor Text:        39
+Artist:                Viktor Titov
+Rarity:                U
+Card #:                
+
+Card Name:        Student of Ojutai
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Human Monk
+Pow/Tou:        2/4
+Card Text:        Whenever you cast a noncreature spell, you gain 2 life.
+Flavor Text:        40
+Artist:                Jason A. Engle
+Rarity:                C
+Card #:                
+
+Card Name:        Summit Prowler
+Card Color:        R
+Mana Cost:        2RR
+Type & Class:         Creature  Yeti
+Pow/Tou:        4/3
+Card Text:        
+Flavor Text:        160
+Artist:                Filip Burburan
+Rarity:                C
+Card #:                
+
+Card Name:        Sunbringer's Touch
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Bolster X, where X is the number of cards in your hand. Each creature you control with a +1/+1 counter on it gains trample until end of turn. (To bolster X, choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)
+Flavor Text:        209
+Artist:                Lucas Graciano
+Rarity:                R
+Card #:                
+
+Card Name:        Sunscorch Regent
+Card Color:        W
+Mana Cost:        3WW
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/3
+Card Text:        Flying
+Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.
+Flavor Text:        41
+Artist:                Matt Stewart
+Rarity:                R
+Card #:                
+
+Card Name:        Surge of Righteousness
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target black or red creature that's attacking or blocking. You gain 2 life.
+Flavor Text:        42
+Artist:                Marco Nelor
+Rarity:                U
+Card #:                
+
+Card Name:        Surrak, the Hunt Caller
+Card Color:        G
+Mana Cost:        2GG
+Type & Class:         Legendary Creature  Human Warrior
+Pow/Tou:        5/4
+Card Text:        Formidable  At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn.
+Flavor Text:        210
+Artist:                Wesley Burt
+Rarity:                R
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        256
+Artist:                Noah Bradley
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        257
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Swamp
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Swamp
+Pow/Tou:        
+Card Text:        
+Flavor Text:        258
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Swift Warkite
+Card Color:        Gld
+Mana Cost:        4BR
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+When Swift Warkite enters the battlefield, you may put a creature card with converted mana cost 3 or less from your hand or graveyard onto the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+Flavor Text:        233
+Artist:                Izzy
+Rarity:                U
+Card #:                
+
+Card Name:        Taigam's Strike
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Target creature gets +2/+0 until end of turn and can't be blocked this turn.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        81
+Artist:                David Gaillet
+Rarity:                C
+Card #:                
+
+Card Name:        Tail Slash
+Card Color:        R
+Mana Cost:        2R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature you control deals damage equal to its power to target creature you don't control.
+Flavor Text:        161
+Artist:                Efrem Palacios
+Rarity:                C
+Card #:                
+
+Card Name:        Tapestry of the Ages
+Card Color:        Art
+Mana Cost:        4
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}, Tap: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.
+Flavor Text:        246
+Artist:                YeongHao Han
+Rarity:                U
+Card #:                
+
+Card Name:        Territorial Roc
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Bird
+Pow/Tou:        1/3
+Card Text:        Flying
+Flavor Text:        43
+Artist:                YW Tang
+Rarity:                C
+Card #:                
+
+Card Name:        Thunderbreak Regent
+Card Color:        R
+Mana Cost:        2RR
+Type & Class:         Creature  Dragon
+Pow/Tou:        4/4
+Card Text:        Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.
+Flavor Text:        162
+Artist:                Ryan Pancoast
+Rarity:                R
+Card #:                
+
+Card Name:        Tormenting Voice
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        As an additional cost to cast Tormenting Voice, discard a card.
+Draw two cards.
+Flavor Text:        163
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Tread Upon
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +2/+2 and gains trample until end of turn.
+Flavor Text:        211
+Artist:                Efrem Palacios
+Rarity:                C
+Card #:                
+
+Card Name:        Twin Bolt
+Card Color:        R
+Mana Cost:        1R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.
+Flavor Text:        164
+Artist:                Svetlin Velinov
+Rarity:                C
+Card #:                
+
+Card Name:        Ukud Cobra
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Snake
+Pow/Tou:        2/5
+Card Text:        Deathtouch
+Flavor Text:        123
+Artist:                Johann Bodin
+Rarity:                U
+Card #:                
+
+Card Name:        Ultimate Price
+Card Color:        B
+Mana Cost:        1B
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Destroy target monocolored creature.
+Flavor Text:        124
+Artist:                Jack Wang
+Rarity:                U
+Card #:                
+
+Card Name:        Updraft Elemental
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Elemental
+Pow/Tou:        1/4
+Card Text:        Flying
+Flavor Text:        82
+Artist:                Raf Sarmento
+Rarity:                C
+Card #:                
+
+Card Name:        Vandalize
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose one or both 
+ Destroy target artifact.
+ Destroy target land.
+Flavor Text:        165
+Artist:                Ryan Barger
+Rarity:                C
+Card #:                
+
+Card Name:        Vial of Dragonfire
+Card Color:        Art
+Mana Cost:        2
+Type & Class:         Artifact
+Pow/Tou:        
+Card Text:        {2}, Tap, Sacrifice Vial of Dragonfire: Vial of Dragonfire deals 2 damage to target creature.
+Flavor Text:        247
+Artist:                Franz Vohwinkel
+Rarity:                C
+Card #:                
+
+Card Name:        Virulent Plague
+Card Color:        B
+Mana Cost:        2B
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Creature tokens get 2/2.
+Flavor Text:        125
+Artist:                Johann Bodin
+Rarity:                U
+Card #:                
+
+Card Name:        Void Squall
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Return target nonland permanent to its owner's hand.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Flavor Text:        83
+Artist:                James Paick
+Rarity:                U
+Card #:                
+
+Card Name:        Volcanic Rush
+Card Color:        R
+Mana Cost:        4R
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Attacking creatures get +2/+0 and gain trample until end of turn.
+Flavor Text:        166
+Artist:                Ryan Barger
+Rarity:                C
+Card #:                
+
+Card Name:        Volcanic Vision
+Card Color:        R
+Mana Cost:        5RR
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card's converted mana cost to each creature your opponents control. Exile Volcanic Vision.
+Flavor Text:        167
+Artist:                Noah Bradley
+Rarity:                R
+Card #:                
+
+Card Name:        Vulturous Aven
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Bird Shaman
+Pow/Tou:        2/3
+Card Text:        Flying
+Exploit (When this creature enters the battlefield, you may sacrifice a creature.)
+When Vulturous Aven exploits a creature, you draw two cards and you lose 2 life.
+Flavor Text:        126
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Wandering Tombshell
+Card Color:        B
+Mana Cost:        3B
+Type & Class:         Creature  Zombie Turtle
+Pow/Tou:        1/6
+Card Text:        
+Flavor Text:        127
+Artist:                YeongHao Han
+Rarity:                C
+Card #:                
+
+Card Name:        Warbringer
+Card Color:        R
+Mana Cost:        3R
+Type & Class:         Creature  Orc Berserker
+Pow/Tou:        3/3
+Card Text:        Dash costs you pay cost {2} less (as long as this creature is on the battlefield).
+Dash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        168
+Artist:                Raymond Swanland
+Rarity:                U
+Card #:                
+
+Card Name:        Youthful Scholar
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        2/2
+Card Text:        When Youthful Scholar dies, draw two cards.
+Flavor Text:        84
+Artist:                Cynthia Sheppard
+Rarity:                U
+Card #:                
+
+Card Name:        Zephyr Scribe
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Human Monk
+Pow/Tou:        2/1
+Card Text:        {U}, Tap: Draw a card, then discard a card.
+Whenever you cast a noncreature spell, untap Zephyr Scribe.
+Flavor Text:        85
+Artist:                Lius Lasahido
+Rarity:                C
+Card #:                
+
+Card Name:        Zurgo Bellstriker
+Card Color:        R
+Mana Cost:        R
+Type & Class:         Legendary Creature  Orc Warrior
+Pow/Tou:        2/2
+Card Text:        Zurgo Bellstriker can't block creatures with power 2 or greater.
+Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)
+Flavor Text:        169
+Artist:                Jason Rainville
+Rarity:                R
+Card #:                
+

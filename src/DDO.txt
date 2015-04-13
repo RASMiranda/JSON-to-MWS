@@ -1,0 +1,764 @@
+Card Name:        Accumulated Knowledge
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.
+Flavor Text:        35
+Artist:                David Palumbo
+Rarity:                C
+Card #:                
+
+Card Name:        Ætherize
+Card Color:        U
+Mana Cost:        3U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Return all attacking creatures to their owner's hand.
+Flavor Text:        36
+Artist:                Ryan Barger
+Rarity:                U
+Card #:                
+
+Card Name:        Banisher Priest
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Creature  Human Cleric
+Pow/Tou:        2/2
+Card Text:        When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner's control.)
+Flavor Text:        2
+Artist:                Willian Murai
+Rarity:                U
+Card #:                
+
+Card Name:        Captain of the Watch
+Card Color:        W
+Mana Cost:        4WW
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        3/3
+Card Text:        Vigilance (Attacking doesn't cause this creature to tap.)
+Other Soldier creatures you control get +1/+1 and have vigilance.
+When Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.
+Flavor Text:        3
+Artist:                Greg Staples
+Rarity:                R
+Card #:                
+
+Card Name:        Celestial Flare
+Card Color:        W
+Mana Cost:        WW
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target player sacrifices an attacking or blocking creature.
+Flavor Text:        4
+Artist:                Clint Cearley
+Rarity:                C
+Card #:                
+
+Card Name:        Coiling Oracle
+Card Color:        Gld
+Mana Cost:        GU
+Type & Class:         Creature  Snake Elf Druid
+Pow/Tou:        1/1
+Card Text:        When Coiling Oracle enters the battlefield, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+Flavor Text:        51
+Artist:                Mark Zug
+Rarity:                C
+Card #:                
+
+Card Name:        Court Street Denizen
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        2/2
+Card Text:        Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.
+Flavor Text:        5
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Dauntless Onslaught
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Up to two target creatures each get +2/+2 until end of turn.
+Flavor Text:        6
+Artist:                Peter Mohrbacher
+Rarity:                U
+Card #:                
+
+Card Name:        Decree of Justice
+Card Color:        W
+Mana Cost:        XX2WW
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Put X 4/4 white Angel creature tokens with flying onto the battlefield.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Decree of Justice, you may pay {X}. If you do, put X 1/1 white Soldier creature tokens onto the battlefield.
+Flavor Text:        7
+Artist:                Lius Lasahido
+Rarity:                R
+Card #:                
+
+Card Name:        Dictate of Heliod
+Card Color:        W
+Mana Cost:        3WW
+Type & Class:         Enchantment
+Pow/Tou:        
+Card Text:        Flash
+Creatures you control get +2/+2.
+Flavor Text:        8
+Artist:                Terese Nielsen
+Rarity:                R
+Card #:                
+
+Card Name:        Elspeth, Sun's Champion
+Card Color:        W
+Mana Cost:        4WW
+Type & Class:         Planeswalker  Elspeth
+Pow/Tou:        
+Card Text:        +1: Put three 1/1 white Soldier creature tokens onto the battlefield.
+3: Destroy all creatures with power 4 or greater.
+7: You get an emblem with "Creatures you control get +2/+2 and have flying."
+Flavor Text:        1
+Artist:                Tyler Jacobson
+Rarity:                R
+Card #:                
+
+Card Name:        Evolving Wilds
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.
+Flavor Text:        58
+Artist:                Steven Belledin
+Rarity:                C
+Card #:                
+
+Card Name:        Explore
+Card Color:        G
+Mana Cost:        1G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        You may play an additional land this turn.
+Draw a card.
+Flavor Text:        45
+Artist:                Johann Bodin
+Rarity:                C
+Card #:                
+
+Card Name:        Explosive Vegetation
+Card Color:        G
+Mana Cost:        3G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.
+Flavor Text:        46
+Artist:                John Avon
+Rarity:                U
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        63
+Artist:                Steven Belledin
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        64
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Forest
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Forest
+Pow/Tou:        
+Card Text:        
+Flavor Text:        65
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        Gempalm Avenger
+Card Color:        W
+Mana Cost:        5W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        3/5
+Card Text:        Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.
+Flavor Text:        9
+Artist:                Tim Hildebrandt
+Rarity:                C
+Card #:                
+
+Card Name:        Grazing Gladehart
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Antelope
+Pow/Tou:        2/2
+Card Text:        Landfall  Whenever a land enters the battlefield under your control, you may gain 2 life.
+Flavor Text:        47
+Artist:                Ryan Pancoast
+Rarity:                C
+Card #:                
+
+Card Name:        Gustcloak Harrier
+Card Color:        W
+Mana Cost:        1WW
+Type & Class:         Creature  Bird Soldier
+Pow/Tou:        2/2
+Card Text:        Flying
+Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.
+Flavor Text:        10
+Artist:                Dan Frazier
+Rarity:                C
+Card #:                
+
+Card Name:        Gustcloak Savior
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Creature  Bird Soldier
+Pow/Tou:        3/4
+Card Text:        Flying
+Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.
+Flavor Text:        11
+Artist:                Jim Nelson
+Rarity:                R
+Card #:                
+
+Card Name:        Gustcloak Sentinel
+Card Color:        W
+Mana Cost:        2WW
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        3/3
+Card Text:        Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.
+Flavor Text:        12
+Artist:                Mark Zug
+Rarity:                U
+Card #:                
+
+Card Name:        Gustcloak Skirmisher
+Card Color:        W
+Mana Cost:        3W
+Type & Class:         Creature  Bird Soldier
+Pow/Tou:        2/3
+Card Text:        Flying
+Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.
+Flavor Text:        13
+Artist:                Dan Frazier
+Rarity:                U
+Card #:                
+
+Card Name:        Icatian Javelineers
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/1
+Card Text:        Icatian Javelineers enters the battlefield with a javelin counter on it.
+Tap, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.
+Flavor Text:        14
+Artist:                Michael Phillippi
+Rarity:                C
+Card #:                
+
+Card Name:        Inkwell Leviathan
+Card Color:        U
+Mana Cost:        7UU
+Type & Class:         Artifact Creature  Leviathan
+Pow/Tou:        7/11
+Card Text:        Islandwalk, trample
+Shroud (This creature can't be the target of spells or abilities.)
+Flavor Text:        37
+Artist:                Anthony Francisco
+Rarity:                R
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        60
+Artist:                Steven Belledin
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        61
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Island
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Island
+Pow/Tou:        
+Card Text:        
+Flavor Text:        62
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        Kinsbaile Skirmisher
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Kithkin Soldier
+Pow/Tou:        2/2
+Card Text:        When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.
+Flavor Text:        15
+Artist:                Thomas Denmark
+Rarity:                C
+Card #:                
+
+Card Name:        Kiora's Follower
+Card Color:        Gld
+Mana Cost:        GU
+Type & Class:         Creature  Merfolk
+Pow/Tou:        2/2
+Card Text:        Tap: Untap another target permanent.
+Flavor Text:        52
+Artist:                Eric Deschamps
+Rarity:                U
+Card #:                
+
+Card Name:        Kiora, the Crashing Wave
+Card Color:        Gld
+Mana Cost:        2GU
+Type & Class:         Planeswalker  Kiora
+Pow/Tou:        
+Card Text:        +1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.
+1: Draw a card. You may play an additional land this turn.
+5: You get an emblem with "At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield."
+Flavor Text:        34
+Artist:                Tyler Jacobson
+Rarity:                R
+Card #:                
+
+Card Name:        Kor Skyfisher
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Creature  Kor Soldier
+Pow/Tou:        2/3
+Card Text:        Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.
+Flavor Text:        16
+Artist:                Dan Scott
+Rarity:                C
+Card #:                
+
+Card Name:        Kraken
+Card Color:        Art
+Mana Cost:        
+Type & Class:          Creature  Kraken
+Pow/Tou:        9/9
+Card Text:        
+Flavor Text:        67
+Artist:                Dan Scott
+Rarity:                C
+Card #:                
+
+Card Name:        Lorescale Coatl
+Card Color:        Gld
+Mana Cost:        1GU
+Type & Class:         Creature  Snake
+Pow/Tou:        2/2
+Card Text:        Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.
+Flavor Text:        53
+Artist:                Greg Staples
+Rarity:                U
+Card #:                
+
+Card Name:        Loxodon Partisan
+Card Color:        W
+Mana Cost:        4W
+Type & Class:         Creature  Elephant Soldier
+Pow/Tou:        3/4
+Card Text:        Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
+Flavor Text:        17
+Artist:                Matt Stewart
+Rarity:                C
+Card #:                
+
+Card Name:        Mano'War
+Card Color:        U
+Mana Cost:        2U
+Type & Class:         Creature  Jellyfish
+Pow/Tou:        2/2
+Card Text:        When Mano'War enters the battlefield, return target creature to its owner's hand.
+Flavor Text:        38
+Artist:                Jon J. Muth
+Rarity:                C
+Card #:                
+
+Card Name:        Mighty Leap
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +2/+2 and gains flying until end of turn.
+Flavor Text:        18
+Artist:                rk post
+Rarity:                C
+Card #:                
+
+Card Name:        Mortal's Ardor
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
+Flavor Text:        19
+Artist:                Kev Walker
+Rarity:                C
+Card #:                
+
+Card Name:        Mother of Runes
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Creature  Human Cleric
+Pow/Tou:        1/1
+Card Text:        Tap: Target creature you control gains protection from the color of your choice until end of turn.
+Flavor Text:        20
+Artist:                Terese Nielsen
+Rarity:                U
+Card #:                
+
+Card Name:        Nessian Asp
+Card Color:        G
+Mana Cost:        4G
+Type & Class:         Creature  Snake
+Pow/Tou:        4/5
+Card Text:        Reach
+{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)
+Flavor Text:        48
+Artist:                Alex HorleyOrlandelli
+Rarity:                C
+Card #:                
+
+Card Name:        Netcaster Spider
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Creature  Spider
+Pow/Tou:        2/3
+Card Text:        Reach (This creature can block creatures with flying.)
+Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn.
+Flavor Text:        49
+Artist:                Yohann Schepacz
+Rarity:                C
+Card #:                
+
+Card Name:        Nimbus Swimmer
+Card Color:        Gld
+Mana Cost:        XGU
+Type & Class:         Creature  Leviathan
+Pow/Tou:        0/0
+Card Text:        Flying
+Nimbus Swimmer enters the battlefield with X +1/+1 counters on it.
+Flavor Text:        54
+Artist:                Howard Lyon
+Rarity:                U
+Card #:                
+
+Card Name:        Noble Templar
+Card Color:        W
+Mana Cost:        5W
+Type & Class:         Creature  Human Cleric Soldier
+Pow/Tou:        3/6
+Card Text:        Vigilance
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)
+Flavor Text:        21
+Artist:                Alex HorleyOrlandelli
+Rarity:                C
+Card #:                
+
+Card Name:        Omenspeaker
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Creature  Human Wizard
+Pow/Tou:        1/3
+Card Text:        When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)
+Flavor Text:        39
+Artist:                Dallas Williams
+Rarity:                C
+Card #:                
+
+Card Name:        Peel from Reality
+Card Color:        U
+Mana Cost:        1U
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Return target creature you control and target creature you don't control to their owners' hands.
+Flavor Text:        40
+Artist:                Jason Felix
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        30
+Artist:                Rob Alexander
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        31
+Artist:                Steven Belledin
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        32
+Artist:                Adam Paquette
+Rarity:                C
+Card #:                
+
+Card Name:        Plains
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Basic Land  Plains
+Pow/Tou:        
+Card Text:        
+Flavor Text:        33
+Artist:                Raoul Vitale
+Rarity:                C
+Card #:                
+
+Card Name:        Plasm Capture
+Card Color:        Gld
+Mana Cost:        GGUU
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.
+Flavor Text:        55
+Artist:                Chase Stone
+Rarity:                R
+Card #:                
+
+Card Name:        Precinct Captain
+Card Color:        W
+Mana Cost:        WW
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        2/2
+Card Text:        First strike
+Whenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.
+Flavor Text:        22
+Artist:                Steve Prescott
+Rarity:                R
+Card #:                
+
+Card Name:        Raise the Alarm
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Put two 1/1 white Soldier creature tokens onto the battlefield.
+Flavor Text:        23
+Artist:                Zoltan Boros
+Rarity:                C
+Card #:                
+
+Card Name:        Scourge of Fleets
+Card Color:        U
+Mana Cost:        5UU
+Type & Class:         Creature  Kraken
+Pow/Tou:        6/6
+Card Text:        When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner's hand, where X is the number of Islands you control.
+Flavor Text:        41
+Artist:                Steven Belledin
+Rarity:                R
+Card #:                
+
+Card Name:        Sealock Monster
+Card Color:        U
+Mana Cost:        3UU
+Type & Class:         Creature  Octopus
+Pow/Tou:        5/5
+Card Text:        Sealock Monster can't attack unless defending player controls an Island.
+{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.
+Flavor Text:        42
+Artist:                Adam Paquette
+Rarity:                U
+Card #:                
+
+Card Name:        Secluded Steppe
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Secluded Steppe enters the battlefield tapped.
+Tap: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)
+Flavor Text:        29
+Artist:                Heather Hudson
+Rarity:                C
+Card #:                
+
+Card Name:        Simic Sky Swallower
+Card Color:        Gld
+Mana Cost:        5GU
+Type & Class:         Creature  Leviathan
+Pow/Tou:        6/6
+Card Text:        Flying, trample
+Shroud (This creature can't be the target of spells or abilities.)
+Flavor Text:        56
+Artist:                rk post
+Rarity:                R
+Card #:                
+
+Card Name:        Soldier
+Card Color:        Art
+Mana Cost:        
+Type & Class:          Creature  Soldier
+Pow/Tou:        1/1
+Card Text:        
+Flavor Text:        66
+Artist:                Svetlin Velinov
+Rarity:                C
+Card #:                
+
+Card Name:        Soul Parry
+Card Color:        W
+Mana Cost:        1W
+Type & Class:         Instant
+Pow/Tou:        
+Card Text:        Prevent all damage one or two target creatures would deal this turn.
+Flavor Text:        24
+Artist:                Igor Kieryluk
+Rarity:                C
+Card #:                
+
+Card Name:        Standing Troops
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        1/4
+Card Text:        Vigilance
+Flavor Text:        25
+Artist:                Zoltan Boros
+Rarity:                C
+Card #:                
+
+Card Name:        Sunlance
+Card Color:        W
+Mana Cost:        W
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Sunlance deals 3 damage to target nonwhite creature.
+Flavor Text:        26
+Artist:                Volkan Baga
+Rarity:                C
+Card #:                
+
+Card Name:        Surrakar Banisher
+Card Color:        U
+Mana Cost:        4U
+Type & Class:         Creature  Surrakar
+Pow/Tou:        3/3
+Card Text:        When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.
+Flavor Text:        43
+Artist:                Matt Cavotta
+Rarity:                C
+Card #:                
+
+Card Name:        Temple of the False God
+Card Color:        Lnd
+Mana Cost:        
+Type & Class:         Land
+Pow/Tou:        
+Card Text:        Tap: Add {2} to your mana pool. Activate this ability only if you control five or more lands.
+Flavor Text:        59
+Artist:                James Zapata
+Rarity:                U
+Card #:                
+
+Card Name:        Time to Feed
+Card Color:        G
+Mana Cost:        2G
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)
+Flavor Text:        50
+Artist:                Wayne Reynolds
+Rarity:                C
+Card #:                
+
+Card Name:        Urban Evolution
+Card Color:        Gld
+Mana Cost:        3GU
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Draw three cards. You may play an additional land this turn.
+Flavor Text:        57
+Artist:                Eytan Zana
+Rarity:                U
+Card #:                
+
+Card Name:        Veteran Armorsmith
+Card Color:        W
+Mana Cost:        WW
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        2/3
+Card Text:        Other Soldier creatures you control get +0/+1.
+Flavor Text:        27
+Artist:                Michael Komarck
+Rarity:                C
+Card #:                
+
+Card Name:        Veteran Swordsmith
+Card Color:        W
+Mana Cost:        2W
+Type & Class:         Creature  Human Soldier
+Pow/Tou:        3/2
+Card Text:        Other Soldier creatures you control get +1/+0.
+Flavor Text:        28
+Artist:                Michael Komarck
+Rarity:                C
+Card #:                
+
+Card Name:        Whelming Wave
+Card Color:        U
+Mana Cost:        2UU
+Type & Class:         Sorcery
+Pow/Tou:        
+Card Text:        Return all creatures to their owners' hands except for Krakens, Leviathans, Octopuses, and Serpents.
+Flavor Text:        44
+Artist:                Slawomir Maniak
+Rarity:                R
+Card #:                
+
